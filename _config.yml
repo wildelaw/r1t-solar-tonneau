@@ -15,6 +15,7 @@ kramdown:
 permalink: pretty
 exclude:
   - "Docs/Directions.md"
+  - "AGENTS.md"
 
 header_pages:
   - materials.md
