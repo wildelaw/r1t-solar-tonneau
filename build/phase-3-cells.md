@@ -6,6 +6,8 @@ nav_order: 4
 
 # Phase 3: Cell Placement & Routing
 
+> **Status: Planned — may change based on actual experience.** This phase has not been executed yet. The steps below are the planned approach and will be revised once the work is underway.
+
 ## 1. Insulate the Frame Edge
 
 Solar cells cannot touch bare steel or they will short out and crack under flex. Run a strip of Kapton or packing tape along the inside bottom lip of the steel frame.

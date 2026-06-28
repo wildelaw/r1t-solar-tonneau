@@ -6,6 +6,8 @@ nav_order: 6
 
 # Phase 5: Post-Cure, Expansion Cap & J-Box Soldering
 
+> **Status: Planned — may change based on actual experience.** This phase has not been executed yet. The steps below are the planned approach and will be revised once the work is underway.
+
 ## 1. Demold
 
 Lift the panel off the melamine board. Flip it over. You will see the clay mounds on the back, with the flat bus wires sticking out.

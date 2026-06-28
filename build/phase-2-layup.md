@@ -6,6 +6,8 @@ nav_order: 3
 
 # Phase 2: Bottom-Up Layup & Hole Drilling
 
+> **Status: Planned — may change based on actual experience.** This phase has not been executed yet. Work begins shortly after July 4, 2026. The steps below are the planned approach and will be revised once the work is underway.
+
 ## 1. Prep the Mold
 
 Lay the melamine board flat. Tape the edges of the board with packing tape so it doesn't absorb resin. Place your primed steel frame on top.

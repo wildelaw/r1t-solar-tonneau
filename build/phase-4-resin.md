@@ -6,6 +6,8 @@ nav_order: 5
 
 # Phase 4: The Resin Pour (Direct Bond Method)
 
+> **Status: Planned — may change based on actual experience.** This phase has not been executed yet. The steps below are the planned approach and will be revised once the work is underway.
+
 ## 1. Scuff the Skin
 
 Lightly sand the cured fiberglass skin (around the cells) with 120-grit paper and wipe with acetone. This ensures the new flood coat chemically bonds to the back skin.

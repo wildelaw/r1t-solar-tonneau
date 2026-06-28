@@ -69,4 +69,4 @@ It is important to test the fit of the frame in the bed to make any additional c
 
 ---
 
-Next: **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})**.
+Next: **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})** *(planned — begins shortly after July 4, 2026; may change based on actual experience)*.
