@@ -22,3 +22,7 @@ nav_order: 7
 ---
 
 Back to **[Home]({{ site.baseurl }}{% link index.md %})**.
+
+---
+
+*Content licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — see [LICENSE](https://github.com/wildelaw/r1t-solar-tonneau/blob/main/LICENSE).*

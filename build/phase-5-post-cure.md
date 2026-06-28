@@ -32,3 +32,7 @@ Trim the flat bus wires to length inside the J-Box and solder them directly to t
 
 Previous: **[Phase 4 — The Resin Pour]({{ site.baseurl }}{% link build/phase-4-resin.md %})**
 Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
+
+---
+
+*Content licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — see [LICENSE](https://github.com/wildelaw/r1t-solar-tonneau/blob/main/LICENSE).*

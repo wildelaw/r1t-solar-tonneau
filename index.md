@@ -58,3 +58,7 @@ Next steps (Phase 2 onward) will resume shortly after July 4, 2026. Those phases
 ---
 
 *Upcoming sections will cover electrical configuration, battery integration, cooler wiring, and field test results as the build progresses.*
+
+---
+
+*Content licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — see [LICENSE](https://github.com/wildelaw/r1t-solar-tonneau/blob/main/LICENSE).*

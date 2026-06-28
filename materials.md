@@ -45,3 +45,7 @@ Everything needed to build the 55" × 13½" × ½" steel-framed solar panel. Vol
 ---
 
 Next: **[Phase 1 — Frame Prep & Bonding Surface]({{ site.baseurl }}{% link build/phase-1-frame-prep.md %})**.
+
+---
+
+*Content licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — see [LICENSE](https://github.com/wildelaw/r1t-solar-tonneau/blob/main/LICENSE).*
