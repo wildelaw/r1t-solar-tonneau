@@ -2,7 +2,7 @@ title: "R1T Solar Tonneau"
 description: "Engineering & build log of a solar-powered tonneau cover for the Rivian R1T — charging a battery backup or cooler in the truck bed."
 remote_theme: null
 theme: minima
-baseurl: ""
+baseurl: "/r1t-solar-tonneau"
 url: "https://wildelaw.github.io"
 github_username: wildelaw
 repository: "wildelaw/r1t-solar-tonneau"
