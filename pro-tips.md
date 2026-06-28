@@ -21,4 +21,4 @@ nav_order: 7
 
 ---
 
-Back to **[Home]({% link index.md %})**.
+Back to **[Home]({{ site.baseurl }}{% link index.md %})**.

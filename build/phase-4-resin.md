@@ -32,5 +32,5 @@ Let the panel sit perfectly level for 48 hours. The clay mound will prevent any 
 
 ---
 
-Previous: **[Phase 3 — Cell Placement & Routing]({% link build/phase-3-cells.md %})**
-Next: **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({% link build/phase-5-post-cure.md %})**
+Previous: **[Phase 3 — Cell Placement & Routing]({{ site.baseurl }}{% link build/phase-3-cells.md %})**
+Next: **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})**

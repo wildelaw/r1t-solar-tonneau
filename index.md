@@ -33,16 +33,16 @@ An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar
 
 ## Build phases
 
-1. **[Phase 1 — Frame Prep & Bonding Surface]({% link build/phase-1-frame-prep.md %})** — weld, flatten, prime, test-fit in the bed.
-2. **[Phase 2 — Bottom-Up Layup & Hole Drilling]({% link build/phase-2-layup.md %})** — fiberglass back skin, amine blush removal, drill wire exits.
-3. **[Phase 3 — Cell Placement & Routing]({% link build/phase-3-cells.md %})** — Kapton insulation, cell stringing, bus-bar routing, clay seal.
-4. **[Phase 4 — The Resin Pour (Direct Bond Method)]({% link build/phase-4-resin.md %})** — seal coat, flood coat, 1/16" expansion gap, torch bubbles, cure.
-5. **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({% link build/phase-5-post-cure.md %})** — demold, clay removal, silicone cap, J-Box solder.
+1. **[Phase 1 — Frame Prep & Bonding Surface]({{ site.baseurl }}{% link build/phase-1-frame-prep.md %})** — weld, flatten, prime, test-fit in the bed.
+2. **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})** — fiberglass back skin, amine blush removal, drill wire exits.
+3. **[Phase 3 — Cell Placement & Routing]({{ site.baseurl }}{% link build/phase-3-cells.md %})** — Kapton insulation, cell stringing, bus-bar routing, clay seal.
+4. **[Phase 4 — The Resin Pour (Direct Bond Method)]({{ site.baseurl }}{% link build/phase-4-resin.md %})** — seal coat, flood coat, 1/16" expansion gap, torch bubbles, cure.
+5. **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})** — demold, clay removal, silicone cap, J-Box solder.
 
 ## Reference
 
-- **[Materials list]({% link materials.md %})** — full bill of materials with resin volume math.
-- **[Pro hints & watch-outs]({% link pro-tips.md %})** — failure modes and hard-won lessons.
+- **[Materials list]({{ site.baseurl }}{% link materials.md %})** — full bill of materials with resin volume math.
+- **[Pro hints & watch-outs]({{ site.baseurl }}{% link pro-tips.md %})** — failure modes and hard-won lessons.
 - **[Original directions](https://github.com/wildelaw/r1t-solar-tonneau/blob/main/Docs/Directions.md)** — canonical source document in `Docs/Directions.md`.
 
 ## Outcome

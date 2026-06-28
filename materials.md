@@ -44,4 +44,4 @@ Everything needed to build the 55" × 13½" × ½" steel-framed solar panel. Vol
 
 ---
 
-Next: **[Phase 1 — Frame Prep & Bonding Surface]({% link build/phase-1-frame-prep.md %})**.
+Next: **[Phase 1 — Frame Prep & Bonding Surface]({{ site.baseurl }}{% link build/phase-1-frame-prep.md %})**.

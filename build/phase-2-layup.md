@@ -24,5 +24,5 @@ Measure exactly 2 inches inward from the steel frame on the cured back skin. Dri
 
 ---
 
-Previous: **[Phase 1 — Frame Prep & Bonding Surface]({% link build/phase-1-frame-prep.md %})**
-Next: **[Phase 3 — Cell Placement & Routing]({% link build/phase-3-cells.md %})**
+Previous: **[Phase 1 — Frame Prep & Bonding Surface]({{ site.baseurl }}{% link build/phase-1-frame-prep.md %})**
+Next: **[Phase 3 — Cell Placement & Routing]({{ site.baseurl }}{% link build/phase-3-cells.md %})**
