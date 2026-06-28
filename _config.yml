@@ -1,0 +1,38 @@
+title: "R1T Solar Tonneau"
+description: "Engineering & build log of a solar-powered tonneau cover for the Rivian R1T — charging a battery backup or cooler in the truck bed."
+remote_theme: null
+theme: minima
+baseurl: ""
+url: "https://wildelaw.github.io"
+github_username: wildelaw
+repository: "wildelaw/r1t-solar-tonneau"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude:
+  - "Docs/Directions.md"
+
+header_pages:
+  - materials.md
+  - build/phase-1-frame-prep.md
+  - build/phase-2-layup.md
+  - build/phase-3-cells.md
+  - build/phase-4-resin.md
+  - build/phase-5-post-cure.md
+  - pro-tips.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+      nav_order: 99
+  - scope:
+      path: "index.md"
+    values:
+      layout: home
+      nav_order: 0
