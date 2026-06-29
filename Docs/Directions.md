@@ -38,7 +38,7 @@ This design incorporates the welded steel cross-beams for zero-sag structural su
 
 ### Phase 1: Frame Prep & Bonding Surface
 
-1.  **Weld the Frame:** Weld your steel frame to 55" x 13 1/2" with a 1/2" outer measurements with the 13" cross-beams. Weld the two 13" flat steel cross-beams to the *inside bottom* of the frame, exactly 7" from each short end. Also weld a in the center at 27 1/2" center
+1.  **Weld the Frame:** Weld your steel frame to 55" x 13 1/2" with a 1/2" outer measurements with the 13" cross-beams. Weld the two 13" flat steel cross-beams to the *inside bottom* of the frame, exactly 7" from each short end. Also weld a cross-beam in the center at 27 1/2"
     *  Use clamps and thin strip of hardboard at 13 1/4" as a jig to achieve a squared off frame.
     *  Measure corner to corner to verify squared off (~56 1/2")
     [](/Images/1.1-Raw-frame.jpeg)
@@ -55,7 +55,7 @@ This design incorporates the welded steel cross-beams for zero-sag structural su
     [](/Images/3.3-Paint-frame-2.jpeg)
     [](/Images/3.4-Paint-frame-3.jpeg)
 5.  **Test Fit:** It is important to test the fit of the frames to make any additional corrections needed before casting in resin.
-    *  First test fit showed that the back of the channel was about 1/16" narrower than the back.
+    *  First test fit showed that the back of the channel was about 1/16" narrower than the front.
     [](/Images/4.1-Test-fit-1.jpeg)
     *  Using a grinder reduced panels from 54 15/16" to 54 7/8" and retest fit.
     [](/Images/4.2-Test-fix-2.jpeg)
