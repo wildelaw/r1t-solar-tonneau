@@ -8,6 +8,35 @@ nav_order: 1
 
 Everything needed to build the 55" × 13½" × ½" steel-framed solar panel. Volumes are calculated from the panel geometry with a small buffer.
 
+Costs are listed as **Estimated** (planned/budgeted) and **Actual** (paid where known). Consumables (welding wire, paint, cleaning solutions, etc.) are excluded — they fall within ~5% of overall cost. An em dash (—) means no estimate was set; **TBD** means the cost is unknown.
+
+| Item | Estimated | Actual |
+|---|---|---|
+| Steel L-Beams | — | ~$20/panel ($2.40/ft, pre-cut) |
+| Cross-Beams | — | ~$9.50/panel ($2.90/ft, pre-cut) |
+| Solar cells (6" × 6", 16 per panel) | — | $12.80/panel ($0.80 each) |
+| Junction box (w/ cable & connectors) | $20 each | TBD |
+| Resin (UV-stabilized marine epoxy, slow hardener) | $41/panel ($34/gal) | TBD |
+| Mold surface (18" × 60" melamine board) | $25 | TBD |
+| Epoxy metal primer | TBD | TBD |
+| Fiberglass cloth (6oz woven, 55" × 13¼") | $8 | TBD |
+| Non-sulfur modeling clay | $3 | TBD |
+| Marine-grade silicone | $10 | TBD |
+| Tabbing wire, bus wire, flux pen, soldering iron | $15 | TBD |
+
+### Total estimated cost projection
+
+Uses actual cost where known, estimate otherwise. TBD items (primer) are excluded and noted.
+
+| Line item | Cost |
+|---|---|
+| Subtotal of known items | $164.30 |
+| Consumables (~5%) | $8.22 |
+| Buffer (~10%) | $16.43 |
+| **Total estimated cost** | **$188.95** |
+
+*Excludes: epoxy metal primer (TBD). TBD items are not included in the subtotal; adding them later will increase the total.*
+
 ---
 
 ## Structural & Mold
