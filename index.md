@@ -14,11 +14,12 @@ An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar
 
 ## Project goals
 
-- **Drop-in fit** on the R1T bed channel — sized to 54⅞" to clear the tailgate gap.
+- **Drop-in fit** on the R1T bed channel — sized to 54⅞" to slide into existing tonneau cover channel.
 - **Zero-sag structure** via a welded steel frame with three internal cross-beams.
 - **Weatherproof encapsulation** of solar cells in UV-stabilized marine epoxy using the *Direct Bond + Expansion Cap* method.
 - **Field-serviceable wiring** through a sealed IP67 junction box on the back skin.
 - **Bed-grade output** to feed a portable battery bank or 12V cooler.
+- **Low-cost** — keep costs as low as possible, and cheaper than buying a manual tonneau cover (currently $1000!!!)
 
 ## Design specs
 
