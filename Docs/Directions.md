@@ -7,7 +7,7 @@ This design incorporates the welded steel cross-beams for zero-sag structural su
 ### Materials List
 
 **Structural & Mold:**
-*   **Steel L-Beams:** 54 7/8" x 1/2" x 1/2" (length should be 1/8 shorter than width at shortest point will refer to lenght as ~55")
+*   **Steel L-Beams:** 54 7/8" x 1/2" x 1/2" (length should be 1/8 shorter than width at shortest point will refer to length as ~55")
 *   **Cross-Beams:** 3x Flat steel bars, 13" long, 1/8" thick.
 *   **Mold Surface:** 18" x 60" Melamine board.
 *   **Epoxy Metal Primer:** Automotive self-etching primer or 2-part epoxy primer.
@@ -15,11 +15,11 @@ This design incorporates the welded steel cross-beams for zero-sag structural su
 **Composite & Resin:**
 *   **Fiberglass Cloth:** 6oz woven fiberglass cloth (cut to 55" x 13 1/4").
 *   **Resin:** UV-Stabilized Clear Marine Epoxy Resin + **Slow Hardener** (2-gallon kit; you will use ~1.2 gallons or 1.131 gallons + buffer).
-    *  **Layer 1** - Fiberglass + expoy resin + black dye: 12 1/2" x 55" x 1/8" = 85.94 cubic inches (resin = 83.79; fiberglass 2.15) which is ~0.363 gallons of resin (about 46.5 fluid ounces)
-    *  **Layer 2** - Three cross-beams + expoy resin: 13 1/4" x 55" x 1/8" = 91.09375 cubic inches (resin = 86.21875 cubic inches; cross-beams = 4.875 cubic inches) which is ~0.374 gallons of resin (about 47.8 fluid ounces)
+    *  **Layer 1** - Fiberglass + epoxy resin + black dye: 12 1/2" x 55" x 1/8" = 85.94 cubic inches (resin = 83.79; fiberglass 2.15) which is ~0.363 gallons of resin (about 46.5 fluid ounces)
+    *  **Layer 2** - Three cross-beams + epoxy resin: 13 1/4" x 55" x 1/8" = 91.09375 cubic inches (resin = 86.21875 cubic inches; cross-beams = 4.875 cubic inches) which is ~0.374 gallons of resin (about 47.8 fluid ounces)
     *  **Layer 3** - Solar Cells
     *  **Layer 4** - Resin Flood: 13 1/4" x 55" x 1/8" = 91.09375 cubic inches which is ~0.394 gallons of resin (about 50.5 fluid ounces)
-*   **Non-Sulfur Modeling Clay:** (e.g., Plastilina or non-sulfur plasteline) for sealing wire passthroughs.
+*   **Non-Sulfur Modeling Clay:** (e.g., Plastilina or non-sulfur plasteline) for sealing wire pass-throughs.
 *   **Marine-Grade Silicone:** For the top expansion cap and J-Box mounting.
 
 **Electrical:**
@@ -38,14 +38,14 @@ This design incorporates the welded steel cross-beams for zero-sag structural su
 
 ### Phase 1: Frame Prep & Bonding Surface
 
-1.  **Weld the Frame:** Weld your steel frame to 55" x 13 1/2" with a 1/2" outer measurments with the 13" cross-beams. Weld the two 13" flat steel cross-beams to the *inside bottom* of the frame, exactly 7" from each short end. Also weld a  in the center at 27 1/2" center
-    *  Use clams and thin strip of hardboad at 13 1/4" as a jig to achive a squared off frame.
+1.  **Weld the Frame:** Weld your steel frame to 55" x 13 1/2" with a 1/2" outer measurements with the 13" cross-beams. Weld the two 13" flat steel cross-beams to the *inside bottom* of the frame, exactly 7" from each short end. Also weld a in the center at 27 1/2" center
+    *  Use clamps and thin strip of hardboard at 13 1/4" as a jig to achieve a squared off frame.
     *  Measure corner to corner to verify squared off (~56 1/2")
     [](/Images/1.1-Raw-frame.jpeg)
     *  Measure cross bars and use welding magents to hold in place for the welding
     [](/Images/1.2-Cross-bar-1.jpeg)
     [](/Images/1.3-Cross-bar-2.jpeg)
-    *  Weld the cross-bars, the forth one was the cleanest, but this is the first welding project so it was a learning experience.
+    *  Weld the cross-bars, the fourth one was the cleanest, but this is the first welding project so it was a learning experience.
     [](/Images/2.1-Frame-welded.jpeg)
 2.  **Flatten the Frame:** Welding warps steel. Place the frame on a perfectly flat table. If it rocks, use a hammer to gently tap it flat before continuing.
 3.  **Prep the Metal:** Use 80-grit sandpaper to heavily scuff the *inside* of the steel channel. Wipe it completely clean with acetone. 
@@ -57,14 +57,14 @@ This design incorporates the welded steel cross-beams for zero-sag structural su
 5.  **Test Fit:** It is important to test the fit of the frames to make any additional corrections needed before casting in resin.
     *  First test fit showed that the back of the channel was about 1/16" narrower than the back.
     [](/Images/4.1-Test-fit-1.jpeg)
-    *  Using a grinder reduced pannels from 54 15/16" to 54 7/8" and retest fit.
+    *  Using a grinder reduced panels from 54 15/16" to 54 7/8" and retest fit.
     [](/Images/4.2-Test-fix-2.jpeg)
     *  Retest the full bed-length fit.
     [](/Images/4.3-Bed-length-fit.jpeg)
     *  It may appear that the length is too long, but there is a gap between the end of the channel and the tailgate.
     [](/Images/4.4-Bed-length-fit-end.jpeg)
     [](/Images/4.5-Bed-length-fit-closed-end.jpeg)
-    *  Finishing off with a full inspection of pannel alignment and fit.
+    *  Finishing off with a full inspection of panel alignment and fit.
     [](/Images/4.6-Bed-full-fit.jpeg)
 
 ---
