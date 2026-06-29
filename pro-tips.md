@@ -11,6 +11,7 @@ nav_order: 7
 - **Slow hardener is mandatory.** Pouring ~1 gallon of epoxy into a tight space creates a massive exothermic reaction. If you use fast hardener, the resin will boil, turn milky white, and ruin the panel.
 - **Batch pouring.** If you need to pour more than 32 oz at once, pour it in two batches spaced 15 minutes apart. This spreads out the heat generation and prevents flash-boiling in the bucket.
 - **Drill bit sizing.** Make the drill holes for the bus bars slightly oversized. Flat bus wires have sharp corners that can chafe against the fiberglass during thermal expansion. A slightly larger hole prevents this.
+- **Size for the loosest channel.** The R1T bed channel width is not consistent — it can measure anywhere from 54 15/16" to 55" along its length. A panel built at the wide end of that range will bind where the channel narrows. For any future or replacement panels, build to **54 3/4" × 13 1/2" × 1/2"** to guarantee clearance across the full channel. The current build stays at **54 7/8" × 13 1/2" × 1/2"** (ground down from 54 15/16" to fix a ~1/16" narrowing at the back of the channel); any specialized or replacement panels will use the new 54 3/4" dimension.
 
 ## Things to watch out for
 
