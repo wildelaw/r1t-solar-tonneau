@@ -22,7 +22,7 @@ Weld the steel frame to 55" × 13½" with ½" outer measurements and the 13" cro
 
 - Weld the cross-bars. The fourth one was the cleanest, but this was the first welding project so it was a learning experience.
 
-{% include figure.html image="/Images/2.1-Frame-welded.jpeg" caption="Frame fully welded — first welding project." %}
+{% include figure.html image="/Images/1.4-Frame-welded.jpeg" caption="Frame fully welded — first welding project." %}
 
 ## 2. Flatten the Frame
 
@@ -32,15 +32,15 @@ Welding warps steel. Place the frame on a perfectly flat table. If it rocks, use
 
 Use 80-grit sandpaper to heavily scuff the *inside* of the steel channel. Wipe it completely clean with acetone.
 
-{% include figure.html image="/Images/3.1-Clean-frame.jpeg" caption="Frame interior sanded and wiped with acetone." %}
+{% include figure.html image="/Images/1.5-Clean-frame.jpeg" caption="Frame interior sanded and wiped with acetone." %}
 
 ## 4. Prime the Metal
 
 Spray the inside of the channel with epoxy metal primer. Let it cure fully (24 hours). Lightly scuff the primer with 120-grit sandpaper and wipe with acetone. *This creates the perfect chemical bond for the Direct Bond method.*
 
-{% include figure.html image="/Images/3.2-Paint-frame-1.jpeg" caption="First epoxy primer coat." %}
-{% include figure.html image="/Images/3.3-Paint-frame-2.jpeg" caption="Second epoxy primer coat." %}
-{% include figure.html image="/Images/3.4-Paint-frame-3.jpeg" caption="Primer fully cured and lightly scuffed." %}
+{% include figure.html image="/Images/1.6-Paint-frame-1.jpeg" caption="First epoxy primer coat." %}
+{% include figure.html image="/Images/1.7-Paint-frame-2.jpeg" caption="Second epoxy primer coat." %}
+{% include figure.html image="/Images/1.8-Paint-frame-3.jpeg" caption="Primer fully cured and lightly scuffed." %}
 
 ## 5. Test Fit
 
@@ -48,28 +48,28 @@ It is important to test the fit of the frame in the bed to make any additional c
 
 - First test fit showed that the back of the channel was about 1/16" narrower than the back.
 
-{% include figure.html image="/Images/4.1-Test-fit-1.jpeg" caption="First test fit — back of the channel ~1/16\" narrower." %}
+{% include figure.html image="/Images/1.9-Test-fit-1.jpeg" caption="First test fit — back of the channel ~1/16\" narrower." %}
 
 - Using a grinder, reduce panels from 54 15/16" to 54 7/8" and retest fit.
 
-{% include figure.html image="/Images/4.2-Test-fix-2.jpeg" caption="Panels ground to 54 7/8\" and re-fit." %}
+{% include figure.html image="/Images/1.10-Test-fix-2.jpeg" caption="Panels ground to 54 7/8\" and re-fit." %}
 
 - Retest the full bed-length fit.
 
-{% include figure.html image="/Images/4.3-Bed-length-fit.jpeg" caption="Full bed-length retest." %}
+{% include figure.html image="/Images/1.11-Bed-length-fit.jpeg" caption="Full bed-length retest." %}
 
 - It may appear that the length is too long, but there is a gap between the end of the channel and the tailgate.
 
-{% include figure.html image="/Images/4.4-Bed-length-fit-end.jpeg" caption="Gap between channel and tailgate." %}
-{% include figure.html image="/Images/4.5-Bed-length-fit-closed-end.jpeg" caption="Closed-end bed-length fit." %}
+{% include figure.html image="/Images/1.12-Bed-length-fit-end.jpeg" caption="Gap between channel and tailgate." %}
+{% include figure.html image="/Images/1.13-Bed-length-fit-closed-end.jpeg" caption="Closed-end bed-length fit." %}
 
 - Finishing off with a full inspection of panel alignment and fit.
 
-{% include figure.html image="/Images/4.6-Bed-full-fit.jpeg" caption="Final panel alignment and fit inspection." %}
+{% include figure.html image="/Images/1.14-Bed-full-fit.jpeg" caption="Final panel alignment and fit inspection." %}
 
 ---
 
-Next: **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})** *(planned — begins shortly after July 4, 2026; may change based on actual experience)*.
+Next: **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})** *(in progress — progressing slowly, may not be complete until August 2026; may change based on actual experience)*.
 
 ---
 

@@ -6,7 +6,7 @@ nav_order: 0
 
 # Rivian R1T Solar Tonneau Cover
 
-> **Status: In Progress** — Phase 1 complete. Phases 2–5 are planned and may change based on actual experience. Work on Phase 2 begins shortly after July 4, 2026.
+> **Status: In Progress** — Phase 1 complete. Phase 2 is underway but progressing slowly — may not be complete until August 2026. Phases 3–5 are planned and may change based on actual experience.
 
 An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
@@ -37,7 +37,7 @@ An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar
 ## Build phases
 
 1. ✅ **[Phase 1 — Frame Prep & Bonding Surface]({{ site.baseurl }}{% link build/phase-1-frame-prep.md %})** — *Complete.* Weld, flatten, prime, test-fit in the bed.
-2. 🗓️ **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})** — *Planned — may change based on actual experience.* Fiberglass back skin, amine blush removal, drill wire exits.
+2. 🛠️ **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})** — *In progress — may not complete until August 2026; may change based on actual experience.* Fiberglass back skin, amine blush removal, drill wire exits.
 3. 🗓️ **[Phase 3 — Cell Placement & Routing]({{ site.baseurl }}{% link build/phase-3-cells.md %})** — *Planned — may change based on actual experience.* Kapton insulation, cell stringing, bus-bar routing, clay seal.
 4. 🗓️ **[Phase 4 — The Resin Pour (Direct Bond Method)]({{ site.baseurl }}{% link build/phase-4-resin.md %})** — *Planned — may change based on actual experience.* Seal coat, flood coat, 1/16" expansion gap, torch bubbles, cure.
 5. 🗓️ **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})** — *Planned — may change based on actual experience.* Demold, clay removal, silicone cap, J-Box solder.
@@ -52,9 +52,9 @@ An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar
 
 Phase 1 is complete. The steel frame is welded, flattened, primed, and test-fit in the R1T bed. Final bed fit is verified — the panel sits flush in the bed channel with a clean gap at the tailgate end, ready for the resin pour and cell stringing phases. The frame was ground down from 54 15/16" to 54 7/8" to correct a ~1/16" narrowing at the back of the channel and now drops in cleanly.
 
-Next steps (Phase 2 onward) will resume shortly after July 4, 2026. Those phases are planned and may change based on actual experience.
+Work on Phase 2 has started but is a slower process and may not be complete until August 2026. Later phases are planned and may change based on actual experience.
 
-{% include figure.html image="/Images/4.6-Bed-full-fit.jpeg" caption="Final panel alignment and fit inspection in the R1T bed." %}
+{% include figure.html image="/Images/1.14-Bed-full-fit.jpeg" caption="Final panel alignment and fit inspection in the R1T bed." %}
 
 ---
 

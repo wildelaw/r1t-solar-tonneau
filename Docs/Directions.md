@@ -46,33 +46,50 @@ This design incorporates the welded steel cross-beams for zero-sag structural su
     [](/Images/1.2-Cross-bar-1.jpeg)
     [](/Images/1.3-Cross-bar-2.jpeg)
     *  Weld the cross-bars, the fourth one was the cleanest, but this is the first welding project so it was a learning experience.
-    [](/Images/2.1-Frame-welded.jpeg)
+    [](/Images/1.4-Frame-welded.jpeg)
 2.  **Flatten the Frame:** Welding warps steel. Place the frame on a perfectly flat table. If it rocks, use a hammer to gently tap it flat before continuing.
 3.  **Prep the Metal:** Use 80-grit sandpaper to heavily scuff the *inside* of the steel channel. Wipe it completely clean with acetone. 
-    [](/Images/3.1-Clean-frame.jpeg)
+    [](/Images/1.5-Clean-frame.jpeg)
 4.  **Prime the Metal:** Spray the inside of the channel with epoxy metal primer. Let it cure fully (24 hours). Lightly scuff the primer with 120-grit sandpaper and wipe with acetone. *This creates the perfect chemical bond for the Direct Bond method.*
-    [](/Images/3.2-Paint-frame-1.jpeg)
-    [](/Images/3.3-Paint-frame-2.jpeg)
-    [](/Images/3.4-Paint-frame-3.jpeg)
+    [](/Images/1.6-Paint-frame-1.jpeg)
+    [](/Images/1.7-Paint-frame-2.jpeg)
+    [](/Images/1.8-Paint-frame-3.jpeg)
 5.  **Test Fit:** It is important to test the fit of the frames to make any additional corrections needed before casting in resin.
     *  First test fit showed that the back of the channel was about 1/16" narrower than the front.
-    [](/Images/4.1-Test-fit-1.jpeg)
+    [](/Images/1.9-Test-fit-1.jpeg)
     *  Using a grinder reduced panels from 54 15/16" to 54 7/8" and retest fit.
-    [](/Images/4.2-Test-fix-2.jpeg)
+    [](/Images/1.10-Test-fix-2.jpeg)
     *  Retest the full bed-length fit.
-    [](/Images/4.3-Bed-length-fit.jpeg)
+    [](/Images/1.11-Bed-length-fit.jpeg)
     *  It may appear that the length is too long, but there is a gap between the end of the channel and the tailgate.
-    [](/Images/4.4-Bed-length-fit-end.jpeg)
-    [](/Images/4.5-Bed-length-fit-closed-end.jpeg)
+    [](/Images/1.12-Bed-length-fit-end.jpeg)
+    [](/Images/1.13-Bed-length-fit-closed-end.jpeg)
     *  Finishing off with a full inspection of panel alignment and fit.
-    [](/Images/4.6-Bed-full-fit.jpeg)
+    [](/Images/1.14-Bed-full-fit.jpeg)
 
 ---
 
 ### Phase 2: Bottom-Up Layup & Hole Drilling
 
-1.  **Prep the Mold:** Lay the melamine board flat. Tape the edges of the board with packing tape so it doesn't absorb resin. Place your primed steel frame on top.
-2.  **Wet Out the Fiberglass:** Cut the 6oz fiberglass cloth to fit snugly inside the frame. Mix a small batch (~16 oz) of epoxy. Lay the cloth on the melamine and squeegee the epoxy into it until clear. Let this back skin **cure completely hard** (24 hours).
+1.  **Prep the Mold:** Construct the mould using melamine boards with one larger 65" x 16" board as the base, with a second layer screwed on top with silicone caulking to create a 55" x 13 1/2" mould with all corners filled in with silicone caulking. Make sure the mould is square.
+    [](/Images/2.1-Mould-base-layer.jpeg)
+    [](/Images/2.2-Mould-second-layer.jpeg)
+    [](/Images/2.3-Mould-squared.jpeg)
+    *  The mould is open on three sides because the metal frames are not perfectly straight.
+    *  After the silicone is dry, place the first panel in the mould and use clamps to straighten out the long sides. Add silicone caulking to the outside of the bottom and ends on the outside of the panel frame — this keeps the resin in the mould while allowing straightening of the long edges and allowing for easier de-moulding.
+    [](/Images/2.4-Frame-clamped-straight.jpeg)
+    *  Note: It might be easier to install and remove one of the long sides instead of using silicone on each panel.
+2.  **Wet Out the Fiberglass:** Measure out 16 oz of resin. Warm the two parts in hot water to provide better mixing and flow. Add color if needed — note that color will add some level of conductivity and additional conductive isolation is needed for the solar cells.
+    [](/Images/2.5-Resin-prep-1.jpeg)
+    [](/Images/2.6-Resin-prep-2.jpeg)
+    *  Lay the fiberglass on the bottom of the panel.
+    [](/Images/2.7-Fiberglass-in-mould.jpeg)
+    *  Mix the resin and hardener and stir for the time recommended by the resin instructions.
+    [](/Images/2.8-Mixing-resin.jpeg)
+    *  Pour and wet the 16 oz of resin onto the fiberglass, working out all of the air pockets under the fiberglass.
+    [](/Images/2.9-Pouring-resin.jpeg)
+    *  Let dry for 24 hours.
+    [](/Images/2.10-Back-skin-cured.jpeg)
 3.  **Remove Amine Blush:** Epoxy produces a waxy byproduct called amine blush as it cures. Wash the cured fiberglass skin with warm water, dish soap, and a Scotch-Brite pad. Dry completely.
 4.  **Drill Wire Exits:** Measure exactly 2 inches inward from the steel frame on the cured back skin. Drill two holes just wide enough for your flat bus wire to pass through. 
 
