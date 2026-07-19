@@ -19,21 +19,21 @@ Costs are listed as **Estimated** (planned/budgeted) and **Actual** (paid where 
 | Resin (UV-stabilized marine epoxy, slow hardener) | $41/panel ($34/gal) | TBD |
 | Mold surface (18" × 60" melamine board) | $25 | TBD |
 | Epoxy metal primer | TBD | TBD |
-| Fiberglass cloth (6oz woven, 55" × 13¼") | $8 | TBD |
+| Fiberglass cloth (6oz woven, 55" × 13¼", enough for all 4 panels) | $8 | TBD |
 | Non-sulfur modeling clay | $3 | TBD |
 | Marine-grade silicone | $10 | TBD |
-| Tabbing wire, bus wire, flux pen, soldering iron | $15 | TBD |
+| Tabbing wire, bus wire, flux pen, soldering iron (enough for all 4 panels) | $15 | TBD |
 
 ### Total estimated cost projection
 
-Uses actual cost where known, estimate otherwise. TBD items (primer) are excluded and noted.
+Full project cost for **4 panels**. Per-panel items (steel, cross-beams, solar cells, junction box, resin) are multiplied by 4; shared one-time items (mold surface, clay, silicone, fiberglass cloth, tabbing wire kit) are counted once. Uses actual cost where known, estimate otherwise. TBD items (primer) are excluded and noted.
 
 | Line item | Cost |
 |---|---|
-| Subtotal of known items | $164.30 |
-| Consumables (~5%) | $8.22 |
-| Buffer (~10%) | $16.43 |
-| **Total estimated cost** | **$188.95** |
+| Subtotal of known items | $474.20 |
+| Consumables (~5%) | $23.71 |
+| Buffer (~10%) | $47.42 |
+| **Total estimated cost** | **$545.33** |
 
 *Excludes: epoxy metal primer (TBD). TBD items are not included in the subtotal; adding them later will increase the total.*
 
