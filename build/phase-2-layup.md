@@ -6,7 +6,7 @@ nav_order: 3
 
 # Phase 2: Bottom-Up Layup & Hole Drilling
 
-> **Status: In progress — may change based on actual experience.** Work is underway but progressing slowly and may not be complete until August 2026. Steps are being revised as the work progresses.
+> **Status: Complete.** Steps were revised as the work progressed. Wire-exit drilling was deferred to the start of Phase 3 to confirm alignment with the solar cells; on the next panel it will be done in this step, before soldering the solar cells.
 
 ## 1. Prep the Mold
 
@@ -61,7 +61,11 @@ The black dye intended for the fiberglass wet-out did not mix in and only staine
 
 ## 4. Drill Wire Exits
 
-Measure exactly 2 inches inward from the steel frame on the cured back skin. Drill two holes just wide enough for your flat bus wire to pass through.
+Measure exactly 2 inches inward from the steel frame on the cured back skin. Drill two holes just wide enough for your flat bus wire to pass through. Align the exit points for the positive and negative wires so the bus bars sit symmetrically on the back skin.
+
+{% include figure.html image="/Images/2.13-Wire-exits-plumbers-putty.jpeg" caption="Drilled wire-exit holes with the bus wire passed through and sealed with plumber's putty." %}
+
+> **Note:** On this first panel, I waited to drill the holes until Phase 3 so I could make sure everything aligned with the solar cells before committing. On the next panel I will already have the two holes drilled in the mold, so I'll complete this step before soldering the solar cells.
 
 ---
 

@@ -6,6 +6,8 @@ nav_order: 2
 
 # Phase 1: Frame Prep & Bonding Surface
 
+> **Status: Complete.** The frame is welded, flattened, primed, and test-fit in the R1T bed. The frame was ground down from 54 15/16" to 54 7/8" to correct a ~1/16" narrowing at the back of the bed channel.
+
 ## 1. Weld the Frame
 
 Weld the steel frame to 55" × 13½" with ½" outer measurements and the 13" cross-beams. Weld the two 13" flat steel cross-beams to the *inside bottom* of the frame, exactly 7" from each short end. Weld a third cross-beam in the center at 27½".
@@ -69,7 +71,8 @@ It is important to test the fit of the frame in the bed to make any additional c
 
 ---
 
-Next: **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})** *(in progress — progressing slowly, may not be complete until August 2026; may change based on actual experience)*.
+Previous: **[Home]({{ site.baseurl }}{% link index.md %})**
+Next: **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})**
 
 ---
 
