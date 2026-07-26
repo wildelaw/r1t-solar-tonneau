@@ -18,7 +18,7 @@ Before this project I built a three-panel tonneau cover out of **3/8" plywood, w
 
 It works, but it has two problems. The ½" L-beams make the whole assembly heavy and eat into bed storage height, and the cover is a cover — it doesn't do anything but cover.
 
-I could have just done a fiberglass wrap around the new four-panel steel-frame design and called it done. But I had to challenge myself with a more complex project — so I'm encapsulating solar cells in marine epoxy and turning the tonneau cover into a power source. The figure below is the new four-panel steel frame test-fit in the same bed channel, for comparison.
+I could have just done a fiberglass wrap around the new four-panel steel-frame design and called it done. But I had to challenge myself with a more complex project — so I'm encapsulating solar cells in marine epoxy and turning the tonneau cover into a power source. It's also half the estimated cost of buying a manual tonneau cover (currently ~$1000) and, honestly, building it yourself is more fun. The figure below is the new four-panel steel frame test-fit in the same bed channel, for comparison.
 
 {% include figure.html image="/Images/1.14-Bed-full-fit.jpeg" caption="New steel-frame panel test-fit in the same R1T bed channel — the replacement for the cover above." %}
 
