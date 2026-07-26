@@ -6,11 +6,19 @@ nav_order: 6
 
 # Phase 5: Post-Cure, Expansion Cap & J-Box Soldering
 
-> **Status: Planned — may change based on actual experience.** This phase has not been executed yet. The steps below are the planned approach and will be revised once the work is underway.
+> **Status: In progress — may change based on actual experience.** Demold has started; not yet complete. Steps are being revised as the work progresses.
 
 ## 1. Demold
 
-Lift the panel off the melamine board. Flip it over. You will see the plumber's putty mounds (covered with Kapton tape) on the back, with the flat bus wires sticking out.
+Start by removing the temporary silicone sealing the frame to the mold, then lift the panel off the melamine board. Flip it over. You will see the plumber's putty mounds (covered with Kapton tape) on the back, with the flat bus wires sticking out.
+
+{% include figure.html image="/Images/5.1-Demold-start.jpeg" caption="Starting to demold the panel — temporary silicone removed from the frame." %}
+
+While removing the temporary silicone, I noticed that one corner of the frame was not flush against the mold, and the resin level in that corner came out lower than the rest of the panel. These kinds of issues were expected — the fix is post-production fine-tuning with a grinder: clean up the edge and the bottom section that slides into the bed channel. On the next panel I will make sure the frame edges are pressed flush against the melamine board before sealing so this does not happen again.
+
+{% include figure.html image="/Images/5.2-Corner-not-flush.jpeg" caption="Corner of the frame lifted away from the mold, with a lower resin level in that area." %}
+
+> **Note:** Not ready to fully demold yet — this was just the temporary-silicone removal pass. The cleanup grinding happens after the panel is fully out of the mold.
 
 ## 2. Remove the Putty & Kapton
 

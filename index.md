@@ -6,7 +6,7 @@ nav_order: 0
 
 # Rivian R1T Solar Tonneau Cover
 
-> **Status: In Progress** — Phases 1–4 complete. Phase 5 (Post-Cure, Expansion Cap & J-Box Soldering) is next. Phase 5 is planned and may change based on actual experience.
+> **Status: In Progress** — Phases 1–4 complete. Phase 5 (Post-Cure, Expansion Cap & J-Box Soldering) is underway — demold has started, with some edge cleanup needed. Phase 5 may change based on actual experience.
 
 An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
@@ -52,7 +52,7 @@ I could have just done a fiberglass wrap around the new four-panel steel-frame d
 2. ✅ **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})** — *Complete.* Fiberglass back skin, amine blush removal, drill wire exits.
 3. ✅ **[Phase 3 — Cell Placement & Routing]({{ site.baseurl }}{% link build/phase-3-cells.md %})** — *Complete.* Kapton insulation, cell stringing, tin-strip soldering, bus-bar routing, clay seal.
 4. ✅ **[Phase 4 — The Resin Pour (Direct Bond Method)]({{ site.baseurl }}{% link build/phase-4-resin.md %})** — *Complete.* Seal coat, flood coat, 1/16" expansion gap, heat-gun bubbles, 48-hour cure.
-5. 🗓️ **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})** — *Planned — may change based on actual experience.* Demold, clay removal, silicone cap, J-Box solder.
+5. 🛠️ **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})** — *In progress — may change based on actual experience.* Demold, clay removal, silicone cap, J-Box solder.
 6. 🔁 **Phase 6 — Do It Three More Times** — *Optimistic.* One panel doesn't quite cover the whole bed. The truck bed needs four. So congratulations — you now get to repeat Phases 1–5 three more times. Weld more frame, lay up more skins, solder ~54 more tin strips (plus the inevitable breakage), pour more resin, and try not to think about how much epoxy you're buying. Then wire them all together, pretend you remember how the bus bars go, and finally go camping.
 
 ## Reference
