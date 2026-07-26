@@ -10,6 +10,18 @@ nav_order: 0
 
 An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
+## Backstory — why not just buy a cover?
+
+Before this project I built a three-panel tonneau cover out of **3/8" plywood, waterproof canvas, and aluminum C-channel**. It still keeps the bed dry — the canvas is waterproof, though it has faded from its original black — and ½" iron L-beams run underneath to keep the panels from sagging.
+
+{% include figure.html image="/Images/0.1-Old-three-panel-cover.jpeg" caption="The original three-panel plywood + canvas + aluminum C-channel tonneau cover." %}
+
+It works, but it has two problems. The ½" L-beams make the whole assembly heavy and eat into bed storage height, and the cover is a cover — it doesn't do anything but cover.
+
+I could have just done a fiberglass wrap around the new four-panel steel-frame design and called it done. But I had to challenge myself with a more complex project — so I'm encapsulating solar cells in marine epoxy and turning the tonneau cover into a power source. The figure below is the new four-panel steel frame test-fit in the same bed channel, for comparison.
+
+{% include figure.html image="/Images/1.14-Bed-full-fit.jpeg" caption="New steel-frame panel test-fit in the same R1T bed channel — the replacement for the cover above." %}
+
 ---
 
 ## Project goals
@@ -58,8 +70,6 @@ Phase 2 is complete. The fiberglass back skin is laid up, amine blush removed, a
 Phase 3 is complete. The cross-beams were Kapton-taped (the frame edges did not need it), and all 16 cells had tin strips soldered to their backs — a slow process, eased by flattened solder ribbon and a flux pen. Two cells broke during soldering and had to be replaced (18 total). The positive and negative bus bars are soldered to the strings, routed through the back-skin holes, and sealed with plumber's putty and a Kapton-tape cover. Next up: Phase 4 — the resin pour.
 
 Phase 4 is complete. The back skin was re-scuffed with 120-grit and acetone-wiped, the mold was leveled, and a seal coat was skimmed over all the cells. After a ~3-hour gel, the flood coat was poured 16 oz at a time up to just below the top of the frame (leaving the 1/16" expansion gap), bubbles were cleared with a heat gun, and the panel cured level for 48 hours. Next up: Phase 5 — demold, expansion cap, and J-Box soldering.
-
-{% include figure.html image="/Images/1.14-Bed-full-fit.jpeg" caption="Final panel alignment and fit inspection in the R1T bed." %}
 
 ---
 
