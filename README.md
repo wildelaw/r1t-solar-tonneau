@@ -18,7 +18,7 @@ The site covers the build process as it progresses:
 - **[Phase 3 — Cell Placement & Routing](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-3-cells)** — ✅ complete — Kapton insulation, cell stringing, bus-bar routing, clay seal
 - **[Phase 4 — The Resin Pour](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-4-resin)** — ✅ complete — seal coat, flood coat, expansion gap, heat-gun bubbles, 48-hour cure
 - **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-5-post-cure)** — planned — demold, clay removal, silicone cap, J-Box solder
-- **Phase 6 — Do It Three More Times** — 🔁 optimistic — one panel covers the tonneau; the truck bed needs four. Repeat Phases 1–5 three more times, then wire them all together and finally go camping.
+- **Phase 6 — Do It Three More Times** — 🔁 optimistic — one panel doesn't quite cover the whole bed; the truck bed needs four. Repeat Phases 1–5 three more times, then wire them all together and finally go camping.
 - **[Pro Hints & Watch-Outs](https://wildelaw.github.io/r1t-solar-tonneau/pro-tips)** — failure modes and hard-won lessons
 
 The canonical source document is [`Docs/Directions.md`](Docs/Directions.md).
