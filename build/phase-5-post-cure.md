@@ -10,11 +10,11 @@ nav_order: 6
 
 ## 1. Demold
 
-Lift the panel off the melamine board. Flip it over. You will see the clay mounds on the back, with the flat bus wires sticking out.
+Lift the panel off the melamine board. Flip it over. You will see the plumber's putty mounds (covered with Kapton tape) on the back, with the flat bus wires sticking out.
 
-## 2. Remove the Clay
+## 2. Remove the Putty & Kapton
 
-Pick the clay out of the holes. It will peel away cleanly, leaving perfectly sealed, flush holes around the bus wires.
+Peel off the Kapton tape and pick the plumber's putty out of the holes. It should peel away cleanly, leaving perfectly sealed, flush holes around the bus wires. (If you used non-sulfur modeling clay instead, the same applies — pick it out cleanly.)
 
 ## 3. The Expansion Cap
 
@@ -32,6 +32,8 @@ Trim the flat bus wires to length inside the J-Box and solder them directly to t
 
 Previous: **[Phase 4 — The Resin Pour]({{ site.baseurl }}{% link build/phase-4-resin.md %})**
 Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
+
+> **Note:** Once this phase is done, the first panel is finished — but the truck bed needs four. Head back to Phase 1 and repeat the whole process three more times, then wire the panels together.
 
 ---
 

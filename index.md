@@ -6,7 +6,7 @@ nav_order: 0
 
 # Rivian R1T Solar Tonneau Cover
 
-> **Status: In Progress** — Phases 1–4 complete. Phase 5 (post-cure, expansion cap & J-Box soldering) is next. Phase 5 is planned and may change based on actual experience.
+> **Status: In Progress** — Phases 1–4 complete. Phase 5 (Post-Cure, Expansion Cap & J-Box Soldering) is next. Phase 5 is planned and may change based on actual experience.
 
 An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
@@ -61,13 +61,13 @@ I could have just done a fiberglass wrap around the new four-panel steel-frame d
 - **[Pro hints & watch-outs]({{ site.baseurl }}{% link pro-tips.md %})** — failure modes and hard-won lessons.
 - **[Original directions](https://github.com/wildelaw/r1t-solar-tonneau/blob/main/Docs/Directions.md)** — canonical source document in `Docs/Directions.md`.
 
-## Outcome so far (through Phase 1)
+## Outcome so far
 
 Phase 1 is complete. The steel frame is welded, flattened, primed, and test-fit in the R1T bed. Final bed fit is verified — the panel sits flush in the bed channel with a clean gap at the tailgate end, ready for the resin pour and cell stringing phases. The frame was ground down from 54 15/16" to 54 7/8" to correct a ~1/16" narrowing at the back of the channel and now drops in cleanly.
 
-Phase 2 is complete. The fiberglass back skin is laid up, amine blush removed, and the dark grey epoxy paint applied. Wire-exit holes were drilled (aligned for the positive and negative bus wires) and sealed with plumber's putty ready for the pour. Next up: Phase 3 — Kapton insulation, cell stringing, and bus-bar routing.
+Phase 2 is complete. The fiberglass back skin is laid up, amine blush removed, and the dark grey epoxy paint applied. Wire-exit holes were drilled (aligned for the positive and negative bus wires) and sealed with plumber's putty ready for the pour.
 
-Phase 3 is complete. The cross-beams were Kapton-taped (the frame edges did not need it), and all 16 cells had tin strips soldered to their backs — a slow process, eased by flattened solder ribbon and a flux pen. Two cells broke during soldering and had to be replaced (18 total). The positive and negative bus bars are soldered to the strings, routed through the back-skin holes, and sealed with plumber's putty and a Kapton-tape cover. Next up: Phase 4 — the resin pour.
+Phase 3 is complete. The cross-beams were Kapton-taped (the frame edges did not need it), and all 16 cells had tin strips soldered to their backs — a slow process, eased by flattened solder ribbon and a flux pen. Two cells broke during soldering and had to be replaced (18 total). The positive and negative bus bars are soldered to the strings, routed through the back-skin holes, and sealed with plumber's putty and a Kapton-tape cover.
 
 Phase 4 is complete. The back skin was re-scuffed with 120-grit and acetone-wiped, the mold was leveled, and a seal coat was skimmed over all the cells. After a ~3-hour gel, the flood coat was poured 16 oz at a time up to just below the top of the frame (leaving the 1/16" expansion gap), bubbles were cleared with a heat gun, and the panel cured level for 48 hours. Next up: Phase 5 — demold, expansion cap, and J-Box soldering.
 

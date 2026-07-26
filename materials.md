@@ -68,7 +68,7 @@ Full project cost for **4 panels**. Per-panel items (steel, cross-beams, solar c
 - Acetone; 80-grit & 120-grit sandpaper.
 - Heavy-duty packing tape; Kapton tape (for frame insulation).
 - Mixing buckets, stir sticks, squeegees, chip brushes.
-- Butane/propane torch; drill and drill bits.
+- Heat gun (a plumber's torch also works, but the heat gun is gentler on the cells and bus wires); drill and drill bits.
 - Warm water, dish soap, Scotch-Brite pad.
 
 ---
