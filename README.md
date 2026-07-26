@@ -2,7 +2,7 @@
 
 Engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
-> **Status: In Progress** — Phase 1 (Frame Prep & Bonding Surface) is complete. Phases 2–5 are planned and may change based on actual experience. Work on Phase 2 begins shortly after July 4, 2026.
+> **Status: In Progress** — Phases 1–4 are complete. Phase 5 (Post-Cure, Expansion Cap & J-Box Soldering) is next. Phases 5–6 are planned and may change based on actual experience.
 
 ## Documentation
 
@@ -14,10 +14,11 @@ The site covers the build process as it progresses:
 
 - **[Materials](https://wildelaw.github.io/r1t-solar-tonneau/materials)** — full bill of materials with resin volume math
 - **[Phase 1 — Frame Prep & Bonding Surface](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-1-frame-prep)** — ✅ complete — weld, flatten, prime, test-fit
-- **[Phase 2 — Bottom-Up Layup & Hole Drilling](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-2-layup)** — planned — fiberglass back skin, amine blush removal, drill wire exits
-- **[Phase 3 — Cell Placement & Routing](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-3-cells)** — planned — Kapton insulation, cell stringing, bus-bar routing, clay seal
-- **[Phase 4 — The Resin Pour](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-4-resin)** — planned — seal coat, flood coat, expansion gap, torch bubbles, cure
+- **[Phase 2 — Bottom-Up Layup & Hole Drilling](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-2-layup)** — ✅ complete — fiberglass back skin, amine blush removal, drill wire exits
+- **[Phase 3 — Cell Placement & Routing](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-3-cells)** — ✅ complete — Kapton insulation, cell stringing, bus-bar routing, clay seal
+- **[Phase 4 — The Resin Pour](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-4-resin)** — ✅ complete — seal coat, flood coat, expansion gap, heat-gun bubbles, 48-hour cure
 - **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-5-post-cure)** — planned — demold, clay removal, silicone cap, J-Box solder
+- **Phase 6 — Do It Three More Times** — 🔁 optimistic — one panel covers the tonneau; the truck bed needs four. Repeat Phases 1–5 three more times, then wire them all together and finally go camping.
 - **[Pro Hints & Watch-Outs](https://wildelaw.github.io/r1t-solar-tonneau/pro-tips)** — failure modes and hard-won lessons
 
 The canonical source document is [`Docs/Directions.md`](Docs/Directions.md).
