@@ -6,7 +6,7 @@ nav_order: 0
 
 # Rivian R1T Solar Tonneau Cover
 
-> **Status: In Progress** — Phases 1–4 complete. Phase 5 (Post-Cure, Expansion Cap & J-Box Soldering) is underway — demold has started, with some edge cleanup needed. Phase 5 may change based on actual experience.
+> **Status: In Progress** — Phases 1–4 complete. Phase 5 (Post-Cure, Expansion Cap & J-Box Soldering) is underway — demold and putty removal done; expansion cap skipped for the first panel; J-Box mount blocked on a wire-fit issue. Phase 5 may change based on actual experience.
 
 An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
@@ -52,7 +52,7 @@ I could have just done a fiberglass wrap around the new four-panel steel-frame d
 2. ✅ **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})** — *Complete.* Fiberglass back skin, amine blush removal, drill wire exits.
 3. ✅ **[Phase 3 — Cell Placement & Routing]({{ site.baseurl }}{% link build/phase-3-cells.md %})** — *Complete.* Kapton insulation, cell stringing, tin-strip soldering, bus-bar routing, clay seal.
 4. ✅ **[Phase 4 — The Resin Pour (Direct Bond Method)]({{ site.baseurl }}{% link build/phase-4-resin.md %})** — *Complete.* Seal coat, flood coat, 1/16" expansion gap, heat-gun bubbles, 48-hour cure.
-5. 🛠️ **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})** — *In progress — may change based on actual experience.* Demold, clay removal, silicone cap, J-Box solder.
+5. 🛠️ **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})** — *In progress — may change based on actual experience.* Demold (done, with warp to grind out), putty removal (done), expansion cap (skipped on first panel), J-Box solder (blocked on wire-fit issue).
 6. 🔁 **Phase 6 — Do It Three More Times** — *Optimistic.* One panel doesn't quite cover the whole bed. The truck bed needs four. So congratulations — you now get to repeat Phases 1–5 three more times. Weld more frame, lay up more skins, solder ~54 more tin strips (plus the inevitable breakage), pour more resin, and try not to think about how much epoxy you're buying. Then wire them all together, pretend you remember how the bus bars go, and finally go camping.
 
 ## Reference
@@ -69,7 +69,11 @@ Phase 2 is complete. The fiberglass back skin is laid up, amine blush removed, a
 
 Phase 3 is complete. The cross-beams were Kapton-taped (the frame edges did not need it), and all 16 cells had tin strips soldered to their backs — a slow process, eased by flattened solder ribbon and a flux pen. Two cells broke during soldering and had to be replaced (18 total). The positive and negative bus bars are soldered to the strings, routed through the back-skin holes, and sealed with plumber's putty and a Kapton-tape cover.
 
-Phase 4 is complete. The back skin was re-scuffed with 120-grit and acetone-wiped, the mold was leveled, and a seal coat was skimmed over all the cells. After a ~3-hour gel, the flood coat was poured 16 oz at a time up to just below the top of the frame (leaving the 1/16" expansion gap), bubbles were cleared with a heat gun, and the panel cured level for 48 hours. Next up: Phase 5 — demold, expansion cap, and J-Box soldering.
+Phase 4 is complete. The back skin was re-scuffed with 120-grit and acetone-wiped, the mold was leveled, and a seal coat was skimmed over all the cells. After a ~3-hour gel, the flood coat was poured 16 oz at a time up to just below the top of the frame (leaving the 1/16" expansion gap), bubbles were cleared with a heat gun, and the panel cured level for 48 hours.
+
+Phase 5 is in progress. The panel was demolded — it took more effort than expected, slowly shimming the edges free where the resin had bonded to scuffed spots on the melamine, and the prying torque left a warp that will need to be ground flat. The plumber's putty was peeled out of the wire-exit holes cleanly. The expansion cap was skipped for the first panel (the L-beam frame does not need it the way the original C-rail design did). The J-Box mount is blocked: the Phase 1 cell alignment put the positive and negative wires in positions swapped relative to the junction box purchased, so a different box or a sideways mount is being evaluated. The panel is also heavier than ideal — a steel L-beam will be added across the bottom for support, and future panels may cut the resin volume roughly in half to reduce mass and warp risk.
+
+{% include figure.html image="/Images/5.5-First-panel-complete.jpeg" caption="First panel complete (minus the junction box) — a steel L-beam will be added across the bottom for support, and hopefully the next one will be lighter." %}
 
 ---
 
