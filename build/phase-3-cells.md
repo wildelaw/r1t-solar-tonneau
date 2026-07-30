@@ -20,9 +20,9 @@ Use a separate melamine board the same length as the panel as a soldering work s
 
 ## 3. Solder the Tin Strips
 
-Solder a tin strip to the back of every cell. This is a long, slow process — 16 cells in the panel, and two broke during soldering and had to be replaced (18 total).
+Solder a tin strip to the back of every cell. This is a long, slow process — 16 cells in the panel, and **observation:** two broke during soldering and had to be replaced (18 total). **Update for next panel:** Plan for spares — order at least 18 cells per panel to cover breakage.
 
-The first cell was rough, but quality improved significantly after switching to **flattened solder** — take a length of solder wire and flatten it into a thin ribbon with a mallet or rolling surface, then lay a strip of it between the cell contact and the tin strip before applying heat. The flattened solder gives a far more even bond than trying to feed round solder wire in by hand.
+**Observation:** The first cell was rough, but quality improved significantly after switching to **flattened solder** — take a length of solder wire and flatten it into a thin ribbon with a mallet or rolling surface, then lay a strip of it between the cell contact and the tin strip before applying heat. The flattened solder gives a far more even bond than trying to feed round solder wire in by hand.
 
 {% include figure.html image="/Images/3.2-Flattened-solder.jpeg" caption="Flattened solder ribbon laid between the cell contact and the tin strip before soldering." %}
 
@@ -38,7 +38,7 @@ After all cells are soldered and strung together, solder the main positive and n
 
 From the *inside* (top) of the panel, pack non-sulfur modeling clay (plumber's putty works) tightly around the bus wires where they pass through the fiberglass. Build a solid 1-inch mound. *Do not use standard sulfur-based clay, as sulfur inhibits epoxy curing.*
 
-I also laid a strip of Kapton tape over the clay and the bus bars on top. It may not actually help seal the holes, but it made me feel better about keeping the putty in place and the holes sealed during the pour.
+**Observation:** I also laid a strip of Kapton tape over the clay and the bus bars on top. It may not actually help seal the holes, but it made me feel better about keeping the putty in place and the holes sealed during the pour. **Update for next panel:** Pending — will confirm whether the Kapton strip actually improves the seal and convert to a pro-tip if it does.
 
 {% include figure.html image="/Images/3.4-Bus-bars-plumbers-putty.jpeg" caption="Bus bars routed through the drilled holes and sealed with plumber's putty, then taped over with Kapton." %}
 

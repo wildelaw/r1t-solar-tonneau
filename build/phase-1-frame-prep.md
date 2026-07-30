@@ -22,7 +22,7 @@ Weld the steel frame to 55" × 13½" with ½" outer measurements and the 13" cro
 {% include figure.html image="/Images/1.2-Cross-bar-1.jpeg" caption="Cross-bar measured and held with welding magnets." %}
 {% include figure.html image="/Images/1.3-Cross-bar-2.jpeg" caption="Cross-bar tacked in place." %}
 
-- Weld the cross-bars. The fourth one was the cleanest, but this was the first welding project so it was a learning experience.
+- Weld the cross-bars. **Observation:** The fourth one was the cleanest, but this was my first welding project so it was a learning experience. **Update for next panel:** Expect a learning curve on the first few welds.
 
 {% include figure.html image="/Images/1.4-Frame-welded.jpeg" caption="Frame fully welded — first welding project." %}
 

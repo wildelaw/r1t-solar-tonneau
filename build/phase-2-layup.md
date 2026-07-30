@@ -54,7 +54,7 @@ nav_order: 3
 
 Epoxy produces a waxy byproduct called *amine blush* as it cures. Wash the cured fiberglass skin with warm water, dish soap, and a Scotch-Brite pad. Dry completely.
 
-The black dye intended for the fiberglass wet-out did not mix in and only stained the inside of the mixing container — likely because the color was added to the resin before it was heated and the hardener added. To get the dark back-skin colour, spray on a layer of dark grey epoxy paint over the cured, de-blushed skin. A layer of clear epoxy will sit between this paint layer and the solar cells.
+**Observation:** The black dye intended for the fiberglass wet-out did not mix in and only stained the inside of the mixing container — likely because the color was added to the resin before it was heated and the hardener added. **Update:** To get the dark back-skin colour, spray on a layer of dark grey epoxy paint over the cured, de-blushed skin. A layer of clear epoxy will sit between this paint layer and the solar cells.
 
 {% include figure.html image="/Images/2.11-Epoxy-paint-layer-1.jpeg" caption="First coat of dark grey epoxy paint applied over the de-blushed back skin." %}
 {% include figure.html image="/Images/2.12-Epoxy-paint-layer-2.jpeg" caption="Dark grey epoxy paint layer curing." %}
@@ -65,7 +65,7 @@ Measure exactly 2 inches inward from the steel frame on the cured back skin. Dri
 
 {% include figure.html image="/Images/2.13-Wire-exits-plumbers-putty.jpeg" caption="Drilled wire-exit holes with the bus wire passed through and sealed with plumber's putty." %}
 
-> **Note:** On this first panel, I waited to drill the holes until Phase 3 so I could make sure everything aligned with the solar cells before committing. On the next panel I will already have the two holes drilled in the mold, so I'll complete this step before soldering the solar cells.
+> **Observation:** On this first panel, I waited to drill the holes until Phase 3 so I could make sure everything aligned with the solar cells before committing. **Update for next panel:** Drill the two holes in the mold during this step, before soldering the solar cells.
 
 ---
 
