@@ -49,4 +49,12 @@ Next: **[Phase 4 — The Resin Pour]({{ site.baseurl }}{% link build/phase-4-res
 
 ---
 
+## Version history
+
+| Rev | Date | Description |
+|---|---|---|
+| 1.0 | 2026-08-01 | Initial finalized release. |
+
+---
+
 *Content licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — see [LICENSE](https://github.com/wildelaw/r1t-solar-tonneau/blob/main/LICENSE).*

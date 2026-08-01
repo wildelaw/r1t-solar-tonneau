@@ -6,7 +6,7 @@ nav_order: 6
 
 # Phase 5: Post-Cure, Expansion Cap & J-Box Soldering
 
-> **Status: In progress — may change based on actual experience.** Steps 1–2 complete (demold + putty removal). Step 3 skipped for the first panel. Step 4 blocked on a J-Box fit issue. Steps are being revised as the work progresses.
+> **Status: Complete (Rev 1.0).** All five steps done for the first panel: demold, putty removal, expansion cap (skipped on the first panel), J-Box wired + tested in the sun (9.6 V open, 6.76 A short-circuit, ~54 W), and test fit of three frames + completed panel in the truck bed.
 
 ## 1. Demold
 
@@ -47,17 +47,36 @@ Peel off the Kapton tape and pick the plumber's putty out of the holes. **Observ
 
 *(Original planned step, kept for reference: Flip the panel back over (sun-side up). Run a smooth bead of marine silicone into the 1/16" empty gap between the cured resin and the top edge of the steel frame. Tool it smooth with a gloved finger. This flexible cap allows the steel to expand in the heat without cracking the rigid resin.)*
 
-## 4. Mount the J-Box (blocked)
+## 4. Wire the J-Box
 
-*Not yet done — blocked on a wiring-fit issue.*
+Used red shrink-tube to cross over the two − and + leads to align with the polarity of the junction box, and attached the box with white construction adhesive, including the final soldering as seen below. These panels will use standard MC4 connectors and an adapter to the Anderson connector used by the Harbor Freight Predator power bank.
 
-**Observation:** The cell alignment from Phase 1 put the positive and negative wires in positions that are swapped relative to the junction box I purchased — the bus wires will not reach the terminals cleanly, and the box will not fit the current wire spacing while still allowing the panel to slide into the truck bed's cover slots.
+{% include figure.html image="/Images/5.6-Shrink-tube-crossover.jpeg" caption="Red shrink-tube crossover routing the + and − bus wires to match the junction box polarity, bonded with white construction adhesive and final-soldered." %}
 
-**Update — two options being evaluated:**
-1. Pick up a different junction box that fits the current wire spacing and still clears the bed cover slots.
-2. Mount the current box sideways and route the bus wires so they do not touch.
+### Testing before closing the box
 
-Will update this step once a path is chosen.
+After soldering and before snapping on the cover, I tested the panel in the sun.
+
+{% include figure.html image="/Images/5.7-Open-voltage-9.6v.jpeg" caption="Open-circuit voltage test in the sun: 9.6 V." %}
+{% include figure.html image="/Images/5.8-Short-circuit-6.76a.jpeg" caption="Short-circuit current test in the sun: 6.76 A." %}
+
+**Observation — lower than expected current:** Based on the test prior to enclosing in resin, this panel should have read 6.96 A.
+
+{% include figure.html image="/Images/5.9-Pre-resin-6.96a.jpeg" caption="Pre-resin test: 6.96 A short-circuit current, before the cells were enclosed." %}
+
+Two cells cracked during demolding, which accounts for some of the loss; the resin may also be blocking a portion of the light. Either way, 54 W is better than 0 W, but it would have been better at the 66 W (closer to the 72 W max rated per panel).
+
+## 5. Test Fit in the Truck Bed
+
+Installed the three to-be-done panel frames plus the one completed panel in the truck bed.
+
+{% include figure.html image="/Images/5.10-Test-fit-in-bed.jpeg" caption="Three unfinished frames plus the one completed panel test-fit in the truck bed." %}
+
+**Observation:** Everything still fit — no need to grind anything down for clearances. As noted during demolding, the completed frame now sags a little in the center (~1/8").
+
+{% include figure.html image="/Images/5.11-Frame-sag.jpeg" caption="~1/8\" sag in the center of the completed frame." %}
+
+**Update for next panels:** The weight needs to be decreased for the next one (see the weight note in Step 1).
 
 ---
 
@@ -65,6 +84,14 @@ Previous: **[Phase 4 — The Resin Pour]({{ site.baseurl }}{% link build/phase-4
 Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
 
 > **Note:** Once this phase is done, the first panel is finished — but the truck bed needs four. Head back to Phase 1 and repeat the whole process three more times, then wire the panels together.
+
+---
+
+## Version history
+
+| Rev | Date | Description |
+|---|---|---|
+| 1.0 | 2026-08-01 | Initial finalized release. |
 
 ---
 

@@ -6,7 +6,7 @@ nav_order: 0
 
 # Rivian R1T Solar Tonneau Cover
 
-> **Status: In Progress** — Phases 1–4 complete. Phase 5 (Post-Cure, Expansion Cap & J-Box Soldering) is underway — demold and putty removal done; expansion cap skipped for the first panel; J-Box mount blocked on a wire-fit issue. Phase 5 may change based on actual experience.
+> **Status: Rev 1.0 complete** — Phases 1–5 complete. The first panel is built, wired, and test-fit in the truck bed. Phase 6 (build three more panels + wire them together) is planned and may change based on actual experience.
 
 An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
@@ -20,7 +20,7 @@ It works, but it has two problems. The ½" L-beams make the whole assembly heavy
 
 I could have just done a fiberglass wrap around the new four-panel steel-frame design and called it done. But I had to challenge myself with a more complex project — so I'm encapsulating solar cells in marine epoxy and turning the tonneau cover into a power source. It's also half the estimated cost of buying a manual tonneau cover (currently ~$1000) and, honestly, building it yourself is more fun. The figure below is the new four-panel steel frame test-fit in the same bed channel, for comparison.
 
-{% include figure.html image="/Images/1.14-Bed-full-fit.jpeg" caption="New steel-frame panel test-fit in the same R1T bed channel — the replacement for the cover above." %}
+{% include figure.html image="/Images/0.2-Bed-full-25-Done.jpeg" caption="Progress so far — one completed solar panel tonneau cover installed in the bed, with three more panel frames to go." %}
 
 ---
 
@@ -52,7 +52,7 @@ I could have just done a fiberglass wrap around the new four-panel steel-frame d
 2. ✅ **[Phase 2 — Bottom-Up Layup & Hole Drilling]({{ site.baseurl }}{% link build/phase-2-layup.md %})** — *Complete.* Fiberglass back skin, amine blush removal, drill wire exits.
 3. ✅ **[Phase 3 — Cell Placement & Routing]({{ site.baseurl }}{% link build/phase-3-cells.md %})** — *Complete.* Kapton insulation, cell stringing, tin-strip soldering, bus-bar routing, clay seal.
 4. ✅ **[Phase 4 — The Resin Pour (Direct Bond Method)]({{ site.baseurl }}{% link build/phase-4-resin.md %})** — *Complete.* Seal coat, flood coat, 1/16" expansion gap, heat-gun bubbles, 48-hour cure.
-5. 🛠️ **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})** — *In progress — may change based on actual experience.* Demold (done), putty removal (done), expansion cap (skipped on first panel), J-Box solder (blocked on wire-fit issue).
+5. ✅ **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})** — *Complete.* Demold, putty removal, expansion cap (skipped on first panel), J-Box wired + tested (9.6 V open, 6.76 A short-circuit, ~54 W), test fit in the truck bed.
 6. 🔁 **Phase 6 — Do It Three More Times** — *Optimistic.* One panel doesn't quite cover the whole bed. The truck bed needs four. So congratulations — you now get to repeat Phases 1–5 three more times. Weld more frame, lay up more skins, solder ~54 more tin strips (plus the inevitable breakage), pour more resin, and try not to think about how much epoxy you're buying. Then wire them all together, pretend you remember how the bus bars go, and finally go camping.
 
 ## Reference
@@ -71,13 +71,21 @@ Phase 3 is complete. The cross-beams were Kapton-taped (the frame edges did not 
 
 Phase 4 is complete. The back skin was re-scuffed with 120-grit and acetone-wiped, the mold was leveled, and a seal coat was skimmed over all the cells. After a ~3-hour gel, the flood coat was poured 16 oz at a time up to just below the top of the frame (leaving the 1/16" expansion gap), bubbles were cleared with a heat gun, and the panel cured level for 48 hours.
 
-Phase 5 is in progress. The panel was demolded — it took more effort than expected, slowly shimming the edges free where the resin had bonded to scuffed spots on the melamine, and the prying torque left a warp in the panel. The plumber's putty was peeled out of the wire-exit holes cleanly. The expansion cap was skipped for the first panel (the L-beam frame does not need it the way the original C-rail design did). The J-Box mount is blocked: the Phase 1 cell alignment put the positive and negative wires in positions swapped relative to the junction box purchased, so a different box or a sideways mount is being evaluated. The panel is also heavier than ideal — a steel L-beam will be added across the bottom for support, and future panels may cut the resin volume roughly in half to reduce mass.
+Phase 5 is complete (Rev 1.0). The panel was demolded — it took more effort than expected, slowly shimming the edges free where the resin had bonded to scuffed spots on the melamine, and the prying torque left a warp in the panel. The plumber's putty was peeled out of the wire-exit holes cleanly. The expansion cap was skipped for the first panel (the L-beam frame does not need it the way the original C-rail design did). The J-Box is now wired: red shrink-tube crosses the + and − bus wires over to match the junction box polarity, the box is bonded with white construction adhesive, and the leads are final-soldered. The panels will use standard MC4 connectors with an adapter to the Anderson connector on the Harbor Freight Predator power bank. Before snapping on the cover, the panel was tested in the sun: 9.6 V open-circuit and 6.76 A short-circuit (~54 W), down from the 6.96 A (≈66 W) measured before resin-enclosing — two cells cracked during demolding and the resin likely blocks some light. The completed panel plus the three remaining frames were test-fit in the truck bed and everything clears; the completed frame sags ~1/8" in the center, and the next panel needs to be lighter. The first panel is finished — the truck bed needs four.
 
 {% include figure.html image="/Images/5.5-First-panel-complete.jpeg" caption="First panel complete (minus the junction box) — a steel L-beam will be added across the bottom for support, and hopefully the next one will be lighter." %}
 
 ---
 
 *Upcoming sections will cover electrical configuration, battery integration, cooler wiring, and field test results as the build progresses.*
+
+---
+
+## Version history
+
+| Rev | Date | Description |
+|---|---|---|
+| 1.0 | 2026-08-01 | Initial finalized release. |
 
 ---
 

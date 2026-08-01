@@ -2,7 +2,7 @@
 
 Engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
-> **Status: In Progress** — Phases 1–4 are complete. Phase 5 (Post-Cure, Expansion Cap & J-Box Soldering) is underway — demold and putty removal done; expansion cap skipped for the first panel; J-Box mount blocked on a wire-fit issue. Phases 5–6 are planned and may change based on actual experience.
+> **Status: Rev 1.0 complete** — Phases 1–5 are complete. The first panel is built, wired, and test-fit in the truck bed. Phase 6 (build three more panels + wire them together) is planned and may change based on actual experience.
 
 ## Documentation
 
@@ -17,7 +17,7 @@ The site covers the build process as it progresses:
 - **[Phase 2 — Bottom-Up Layup & Hole Drilling](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-2-layup)** — ✅ complete — fiberglass back skin, amine blush removal, drill wire exits
 - **[Phase 3 — Cell Placement & Routing](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-3-cells)** — ✅ complete — Kapton insulation, cell stringing, bus-bar routing, clay seal
 - **[Phase 4 — The Resin Pour](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-4-resin)** — ✅ complete — seal coat, flood coat, expansion gap, heat-gun bubbles, 48-hour cure
-- **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-5-post-cure)** — 🛠️ in progress — demold (done), putty removal (done), expansion cap (skipped on first panel), J-Box solder (blocked on wire-fit issue)
+- **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-5-post-cure)** — ✅ complete — demold, putty removal, expansion cap (skipped on first panel), J-Box wired + tested (9.6 V open, 6.76 A short-circuit, ~54 W), test fit in the truck bed
 - **Phase 6 — Do It Three More Times** — 🔁 optimistic — one panel doesn't quite cover the whole bed; the truck bed needs four. Repeat Phases 1–5 three more times, then wire them all together and finally go camping.
 - **[Pro Hints & Watch-Outs](https://wildelaw.github.io/r1t-solar-tonneau/pro-tips)** — failure modes and hard-won lessons
 
@@ -47,3 +47,11 @@ The canonical source document is [`Docs/Directions.md`](Docs/Directions.md).
 ## License
 
 See [LICENSE](LICENSE).
+
+---
+
+## Version history
+
+| Rev | Date | Description |
+|---|---|---|
+| 1.0 | 2026-08-01 | Initial finalized release. |
