@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Pro Hints & Watch-Outs"
-nav_order: 7
+nav_order: 8
 ---
 
 # Pro Hints & Things to Watch Out For

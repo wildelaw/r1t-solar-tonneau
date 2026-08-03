@@ -10,20 +10,20 @@ nav_order: 3
 
 ## 1. Prep the Mold
 
-1. Cut a 65" x 16" melamine board for the base. Screw a second melamine layer on top with silicone caulking between the layers to form a 55" x 13½" mould, and fill all corners with silicone caulking.
+1. Cut a 65" x 16" melamine board for the base. Screw a second melamine layer on top with silicone caulking between the layers to form a 55" x 13½" mold, and fill all corners with silicone caulking.
 
 {% include figure.html image="/Images/2.1-Mould-base-layer.jpeg" caption="Base melamine layer, 65\" x 16\"." %}
 {% include figure.html image="/Images/2.2-Mould-second-layer.jpeg" caption="Second melamine layer screwed on top with silicone caulking." %}
 
-2. Verify the mould is square before the silicone sets.
+2. Verify the mold is square before the silicone sets.
 
-{% include figure.html image="/Images/2.3-Mould-squared.jpeg" caption="Verify the mould is square." %}
+{% include figure.html image="/Images/2.3-Mould-squared.jpeg" caption="Verify the mold is square." %}
 
-3. Leave the mould open on three sides — the metal frames are not perfectly straight, so the open long side lets you clamp the panel true.
+3. Leave the mold open on three sides — the metal frames are not perfectly straight, so the open long side lets you clamp the panel true.
 
-4. Once the silicone is dry, place the first panel in the mould and clamp the long sides straight. Run a bead of silicone caulking along the outside of the bottom and both ends of the panel frame to seal the resin inside while still allowing the long edges to be straightened and the panel to de-mould cleanly.
+4. Once the silicone is dry, place the first panel in the mold and clamp the long sides straight. Run a bead of silicone caulking along the outside of the bottom and both ends of the panel frame to seal the resin inside while still allowing the long edges to be straightened and the panel to demold cleanly.
 
-{% include figure.html image="/Images/2.4-Frame-clamped-straight.jpeg" caption="Panel in the mould with clamps straightening the long sides." %}
+{% include figure.html image="/Images/2.4-Frame-clamped-straight.jpeg" caption="Panel in the mold with clamps straightening the long sides." %}
 
 > **Note:** It might be easier to install and remove one of the long sides instead of using silicone on each panel.
 
@@ -36,7 +36,7 @@ nav_order: 3
 
 2. Lay the fiberglass cloth into the bottom of the panel.
 
-{% include figure.html image="/Images/2.7-Fiberglass-in-mould.jpeg" caption="Fiberglass laid into the mould." %}
+{% include figure.html image="/Images/2.7-Fiberglass-in-mold.jpeg" caption="Fiberglass laid into the mold." %}
 
 3. Mix the resin and hardener and stir for the time recommended by the resin instructions.
 
@@ -79,6 +79,7 @@ Next: **[Phase 3 — Cell Placement & Routing]({{ site.baseurl }}{% link build/p
 | Rev | Date | Description |
 |---|---|---|
 | 1.0 | 2026-08-01 | Initial finalized release. |
+| 1.1 | 2026-08-02 | Normalized British spelling "mould"/"de-mould" to US "mold"/"demold" in prose and captions (image filenames unchanged). |
 
 ---
 

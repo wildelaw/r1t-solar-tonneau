@@ -71,12 +71,12 @@ This design incorporates the welded steel cross-beams for zero-sag structural su
 
 ### Phase 2: Bottom-Up Layup & Hole Drilling
 
-1.  **Prep the Mold:** Construct the mould using melamine boards with one larger 65" x 16" board as the base, with a second layer screwed on top with silicone caulking to create a 55" x 13 1/2" mould with all corners filled in with silicone caulking. Make sure the mould is square.
+1.  **Prep the Mold:** Construct the mold using melamine boards with one larger 65" x 16" board as the base, with a second layer screwed on top with silicone caulking to create a 55" x 13 1/2" mold with all corners filled in with silicone caulking. Make sure the mold is square.
     [](/Images/2.1-Mould-base-layer.jpeg)
     [](/Images/2.2-Mould-second-layer.jpeg)
     [](/Images/2.3-Mould-squared.jpeg)
-    *  The mould is open on three sides because the metal frames are not perfectly straight.
-    *  After the silicone is dry, place the first panel in the mould and use clamps to straighten out the long sides. Add silicone caulking to the outside of the bottom and ends on the outside of the panel frame — this keeps the resin in the mould while allowing straightening of the long edges and allowing for easier de-moulding.
+    *  The mold is open on three sides because the metal frames are not perfectly straight.
+    *  After the silicone is dry, place the first panel in the mold and use clamps to straighten out the long sides. Add silicone caulking to the outside of the bottom and ends on the outside of the panel frame — this keeps the resin in the mold while allowing straightening of the long edges and allowing for easier demolding.
     [](/Images/2.4-Frame-clamped-straight.jpeg)
     *  Note: It might be easier to install and remove one of the long sides instead of using silicone on each panel.
 2.  **Wet Out the Fiberglass:** Measure out 16 oz of resin. Warm the two parts in hot water to provide better mixing and flow. Add color if needed — note that color will add some level of conductivity and additional conductive isolation is needed for the solar cells.

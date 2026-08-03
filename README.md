@@ -2,7 +2,7 @@
 
 Engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
-> **Status: Rev 1.0 complete** — Phases 1–5 are complete. The first panel is built, wired, and test-fit in the truck bed. Phase 6 (build three more panels + wire them together) is planned and may change based on actual experience.
+> **Status: Rev 1.1 — Phase 6 in progress** — Phases 1–5 complete (first panel). Panel 2 layup is underway in Phase 6: the mold is reused with 1/8" hardboard inserts to cut resin weight, and the fiberglass back skin has been wet out with 24 oz of resin. Panels 3–4 and final four-panel wiring still to come.
 
 ## Documentation
 
@@ -18,7 +18,7 @@ The site covers the build process as it progresses:
 - **[Phase 3 — Cell Placement & Routing](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-3-cells)** — ✅ complete — Kapton insulation, cell stringing, bus-bar routing, clay seal
 - **[Phase 4 — The Resin Pour](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-4-resin)** — ✅ complete — seal coat, flood coat, expansion gap, heat-gun bubbles, 48-hour cure
 - **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-5-post-cure)** — ✅ complete — demold, putty removal, expansion cap (skipped on first panel), J-Box wired + tested (9.6 V open, 6.76 A short-circuit, ~54 W), test fit in the truck bed
-- **Phase 6 — Do It Three More Times** — 🔁 optimistic — one panel doesn't quite cover the whole bed; the truck bed needs four. Repeat Phases 1–5 three more times, then wire them all together and finally go camping.
+- **[Phase 6 — Do It Three More Times](https://wildelaw.github.io/r1t-solar-tonneau/build/phase-6-more-panels)** — 🛠️ in progress — all four frames pre-welded in Phase 1; Panel 2 layup underway (mold reused with 1/8" hardboard inserts to cut resin weight, fiberglass wet out with 24 oz of resin); then panels 3 & 4, and wire all four together
 - **[Pro Hints & Watch-Outs](https://wildelaw.github.io/r1t-solar-tonneau/pro-tips)** — failure modes and hard-won lessons
 
 The canonical source document is [`Docs/Directions.md`](Docs/Directions.md).
@@ -55,3 +55,4 @@ See [LICENSE](LICENSE).
 | Rev | Date | Description |
 |---|---|---|
 | 1.0 | 2026-08-01 | Initial finalized release. |
+| 1.1 | 2026-08-02 | Phase 6 started: Panel 2 layup underway (mold reused with 1/8\" hardboard inserts to cut resin weight, fiberglass wet out with 24 oz of resin). Updated status line and Phase 6 list entry. |

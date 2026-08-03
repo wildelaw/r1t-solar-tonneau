@@ -6,7 +6,7 @@ nav_order: 0
 
 # Rivian R1T Solar Tonneau Cover
 
-> **Status: Rev 1.0 complete** — Phases 1–5 complete. The first panel is built, wired, and test-fit in the truck bed. Phase 6 (build three more panels + wire them together) is planned and may change based on actual experience.
+> **Status: Rev 1.1 — Phase 6 in progress** — Phases 1–5 complete (first panel). Panel 2 layup is underway in Phase 6: the mold is reused with 1/8" hardboard inserts to cut resin weight, and the fiberglass back skin has been wet out with 24 oz of resin. Panels 3–4 and final four-panel wiring still to come.
 
 An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
@@ -53,7 +53,7 @@ I could have just done a fiberglass wrap around the new four-panel steel-frame d
 3. ✅ **[Phase 3 — Cell Placement & Routing]({{ site.baseurl }}{% link build/phase-3-cells.md %})** — *Complete.* Kapton insulation, cell stringing, tin-strip soldering, bus-bar routing, clay seal.
 4. ✅ **[Phase 4 — The Resin Pour (Direct Bond Method)]({{ site.baseurl }}{% link build/phase-4-resin.md %})** — *Complete.* Seal coat, flood coat, 1/16" expansion gap, heat-gun bubbles, 48-hour cure.
 5. ✅ **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})** — *Complete.* Demold, putty removal, expansion cap (skipped on first panel), J-Box wired + tested (9.6 V open, 6.76 A short-circuit, ~54 W), test fit in the truck bed.
-6. 🔁 **Phase 6 — Do It Three More Times** — *Optimistic.* One panel doesn't quite cover the whole bed. The truck bed needs four. So congratulations — you now get to repeat Phases 1–5 three more times. Weld more frame, lay up more skins, solder ~54 more tin strips (plus the inevitable breakage), pour more resin, and try not to think about how much epoxy you're buying. Then wire them all together, pretend you remember how the bus bars go, and finally go camping.
+6. 🛠️ **[Phase 6 — Do It Three More Times]({{ site.baseurl }}{% link build/phase-6-more-panels.md %})** — *In progress.* One panel doesn't quite cover the whole bed — the truck bed needs four. All four frames were welded together during Phase 1, so no new Phase 1 work is needed. Panel 2 is in its Phase 2 layup: the mold is reused with 1/8" hardboard inserts to bring the fiberglass bottom level with the cross bars (reducing resin weight in the center), and the fiberglass back skin is wet out with 24 oz of resin. Then solder ~54 more tin strips (plus the inevitable breakage), pour more resin, demold, wire the J-Boxes, and finally wire all four panels together and go camping.
 
 ## Reference
 
@@ -75,6 +75,8 @@ Phase 5 is complete (Rev 1.0). The panel was demolded — it took more effort th
 
 {% include figure.html image="/Images/5.5-First-panel-complete.jpeg" caption="First panel complete (minus the junction box) — a steel L-beam will be added across the bottom for support, and hopefully the next one will be lighter." %}
 
+Phase 6 is in progress (Rev 1.1). All four steel frames were welded at the same time during Phase 1, so no new frame work is needed for panels 2–4. Panel 2 is in its Phase 2 layup: the mold from Panel 1 is being reused, with four 1/8" hardboard inserts attached to bring the fiberglass bottom level with the cross bars — this reduces the resin volume pooled in the center of the panel, addressing the weight problem from the first panel. The hardboard pieces are white-on-one-side / black-on-the-other and attached to the mold surface; if the panel demolds cleanly and the inserts release intact, they will be reused for panels 3 and 4. The fiberglass back skin has been wet out with 24 oz of resin (vs. 16 oz on Panel 1, the extra to seal around the hardboard and the deeper cross-bar pockets). The hardboard is on the back-skin side of the cross-bars, well clear of the solar cells, so any resin absorption and expansion should not crack the cells — worst case it ends up encased in resin and adds a little weight. Next: cure 24 hours, amine-blush removal + back-skin paint, then drill the wire exits in Phase 2 (the deferred-drilling lesson from Panel 1) before moving on to cell soldering.
+
 ---
 
 *Upcoming sections will cover electrical configuration, battery integration, cooler wiring, and field test results as the build progresses.*
@@ -86,6 +88,7 @@ Phase 5 is complete (Rev 1.0). The panel was demolded — it took more effort th
 | Rev | Date | Description |
 |---|---|---|
 | 1.0 | 2026-08-01 | Initial finalized release. |
+| 1.1 | 2026-08-02 | Phase 6 started: Panel 2 layup underway (mold reused with 1/8\" hardboard inserts to cut resin weight, fiberglass wet out with 24 oz of resin). Added Phase 6 page and outcome paragraph; updated status line and phase list item 6. |
 
 ---
 

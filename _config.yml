@@ -24,6 +24,7 @@ header_pages:
   - build/phase-3-cells.md
   - build/phase-4-resin.md
   - build/phase-5-post-cure.md
+  - build/phase-6-more-panels.md
   - pro-tips.md
 
 defaults:
