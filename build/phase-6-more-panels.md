@@ -33,7 +33,7 @@ The hardboard pieces are white on one side and black on the other, attached to t
 
 ### Fiberglass wet-out
 
-The fiberglass was wet out with **24 oz of resin** (vs. 16 oz on Panel 1 — the extra accounts for sealing around the hardboard inserts and the deeper cross-bar pockets).
+The fiberglass was wet out with **24 oz of resin** (vs. 16 oz on Panel 1 — the extra accounts for the porous hardboard inserts absorbing resin alongside the fiberglass cloth during wet-out). The resin savings from the hardboard modification come later, in the Phase 4 flood coat: with the fiberglass bottom already raised to the cross-bar level, the center of the panel no longer fills with a deep resin pool.
 
 {% include figure.html image="/Images/6.2-Fiberglass-wet-out-24oz.jpeg" caption="Fiberglass wet out with 24 oz of resin in the modified mold." %}
 
@@ -63,6 +63,7 @@ Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
 |---|---|---|
 | 1.0 | 2026-08-02 | Initial release. Panel 2 Phase 2 started: mold reused with 4× 1/8\" hardboard inserts to level the fiberglass bottom with the cross bars, fiberglass wet out with 24 oz of resin. Panel tracker table added. |
 | 1.1 | 2026-08-02 | Corrected the hardboard watch-out — hardboard is hygroscopic (absorbs air moisture and moves with humidity at a different rate than the cured resin), not resin-absorbing; once encased in resin it stabilizes. |
+| 1.2 | 2026-08-02 | Corrected the 24 oz wet-out rationale — the extra resin is absorbed by the porous hardboard inserts during wet-out; the resin savings come later in the Phase 4 flood coat (shallower center cavity), not from deeper cross-bar pockets. |
 
 ---
 
