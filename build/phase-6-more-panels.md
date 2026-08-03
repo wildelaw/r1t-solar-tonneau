@@ -37,7 +37,7 @@ The fiberglass was wet out with **24 oz of resin** (vs. 16 oz on Panel 1 — the
 
 {% include figure.html image="/Images/6.2-Fiberglass-wet-out-24oz.jpeg" caption="Fiberglass wet out with 24 oz of resin in the modified mold." %}
 
-> **Watch-out — hardboard expansion:** Hardboard can absorb resin and expand. As long as it is not touching the solar cells, the expansion should not crack the cells. Worst case, the hardboard ends up encased in resin — which adds a little weight but does not affect the electrical layout. The inserts are on the back-skin side of the cross-bars, well below where the cells will sit.
+> **Watch-out — hardboard dimensional stability:** Hardboard is hygroscopic — it absorbs moisture from the air and expands/contracts with humidity at a different rate than the cured epoxy around it. The inserts are on the back-skin side of the cross-bars, well clear of the solar cells, so any dimensional change should not stress the cells. Once the hardboard is fully encased in resin, moisture exchange with the air is largely cut off and it stabilizes; worst case it ends up sealed in resin and adds a small amount of weight.
 
 ### Next steps for Panel 2
 
@@ -62,6 +62,7 @@ Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
 | Rev | Date | Description |
 |---|---|---|
 | 1.0 | 2026-08-02 | Initial release. Panel 2 Phase 2 started: mold reused with 4× 1/8\" hardboard inserts to level the fiberglass bottom with the cross bars, fiberglass wet out with 24 oz of resin. Panel tracker table added. |
+| 1.1 | 2026-08-02 | Corrected the hardboard watch-out — hardboard is hygroscopic (absorbs air moisture and moves with humidity at a different rate than the cured resin), not resin-absorbing; once encased in resin it stabilizes. |
 
 ---
 
