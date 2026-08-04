@@ -6,7 +6,7 @@ nav_order: 6
 
 # Phase 5: Post-Cure, Expansion Cap & J-Box Soldering
 
-> **Status: Complete (Rev 1.0).** All five steps done for the first panel: demold, putty removal, expansion cap (skipped on the first panel), J-Box wired + tested in the sun (9.6 V open, 6.76 A short-circuit, ~54 W), and test fit of three frames + completed panel in the truck bed.
+> **Status: Complete (Rev 1.0).** All five steps done for the first panel: demold, putty removal, expansion cap (skipped on the first panel), J-Box wired + tested in the sun (9.6 V open, 6.76 A short-circuit, ~65 W), and test fit of three frames + completed panel in the truck bed.
 
 ## 1. Demold
 
@@ -64,7 +64,7 @@ After soldering and before snapping on the cover, I tested the panel in the sun.
 
 {% include figure.html image="/Images/5.9-Pre-resin-6.96a.jpeg" caption="Pre-resin test: 6.96 A short-circuit current, before the cells were enclosed." %}
 
-Two cells cracked during demolding, which accounts for some of the loss; the resin may also be blocking a portion of the light. Either way, 54 W is better than 0 W, but it would have been better at the 66 W (closer to the 72 W max rated per panel).
+Two cells cracked during demolding, which accounts for some of the loss; the resin may also be blocking a portion of the light. Either way, 65 W is better than 0 W, but it would have been better at the 67 W (closer to the 72 W max rated per panel).
 
 ## 5. Test Fit in the Truck Bed
 
@@ -92,6 +92,7 @@ Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
 | Rev | Date | Description |
 |---|---|---|
 | 1.0 | 2026-08-01 | Initial finalized release. |
+| 1.1 | 2026-08-03 | Corrected the panel output from ~54 W to ~65 W (9.6 V × 6.76 A = 64.9 W) and the pre-resin reference from 66 W to 67 W (9.6 V × 6.96 A = 66.8 W) in the status banner and the testing observation. |
 
 ---
 
