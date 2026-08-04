@@ -6,7 +6,7 @@ nav_order: 7
 
 # Phase 6: Do It Three More Times
 
-> **Status: In progress (Panel 2).** All four steel frames are already welded, so Phase 1 work for panels 2–4 is complete. Panel 2 is currently in its Phase 2 layup — the same mold is being reused with a hardboard insert modification to reduce resin weight, and the fiberglass back skin has been wet out (24 oz of resin). This page tracks the build progress of the remaining three panels and the final wiring of all four together.
+> **Status: In progress (Panel 2).** All four steel frames are already welded, so Phase 1 work for panels 2–4 is complete. Panel 2 is currently in its Phase 2 layup — the same mold is being reused with a hardboard insert modification to reduce resin weight, the fiberglass back skin has been wet out (24 oz of resin), and the back skin has been de-blushed and primed. This page tracks the build progress of the remaining three panels and the final wiring of all four together.
 
 The truck bed needs four panels. The first panel is built (Phases 1–5 complete); this phase covers repeating the process for panels 2, 3, and 4, then wiring them all together.
 
@@ -39,10 +39,15 @@ The fiberglass was wet out with **24 oz of resin** (vs. 16 oz on Panel 1 — the
 
 > **Watch-out — hardboard dimensional stability:** Hardboard is hygroscopic — it absorbs moisture from the air and expands/contracts with humidity at a different rate than the cured epoxy around it. The inserts are on the back-skin side of the cross-bars, well clear of the solar cells, so any dimensional change should not stress the cells. Once the hardboard is fully encased in resin, moisture exchange with the air is largely cut off and it stabilizes; worst case it ends up sealed in resin and adds a small amount of weight.
 
+### Back skin — de-blushed and primed
+
+The cured back skin has been washed to remove the amine blush and primed with a coat of epoxy paint, matching the Panel 1 process (see [Phase 2 — Step 3]({{ site.baseurl }}{% link build/phase-2-layup.md %}#3-remove-amine-blush--paint-back-skin)).
+
+{% include figure.html image="/Images/6.3-Blush-removed.jpeg" caption="Back skin washed with warm water, dish soap, and a Scotch-Brite pad to remove the amine blush." %}
+{% include figure.html image="/Images/6.4-Primered-back-skin.jpeg" caption="Primer coat applied over the de-blushed back skin." %}
+
 ### Next steps for Panel 2
 
-- Let the back skin cure 24 hours.
-- Remove amine blush and paint the back skin (same as Panel 1, Phase 2 Step 3).
 - Drill wire exits (this time in Phase 2, before soldering cells — the deferred-drilling lesson from Panel 1).
 - De-mold the hardboard inserts and evaluate whether they are reusable for Panel 3.
 
@@ -64,6 +69,7 @@ Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
 | 1.0 | 2026-08-02 | Initial release. Panel 2 Phase 2 started: mold reused with 4× 1/8\" hardboard inserts to level the fiberglass bottom with the cross bars, fiberglass wet out with 24 oz of resin. Panel tracker table added. |
 | 1.1 | 2026-08-02 | Corrected the hardboard watch-out — hardboard is hygroscopic (absorbs air moisture and moves with humidity at a different rate than the cured resin), not resin-absorbing; once encased in resin it stabilizes. |
 | 1.2 | 2026-08-02 | Corrected the 24 oz wet-out rationale — the extra resin is absorbed by the porous hardboard inserts during wet-out; the resin savings come later in the Phase 4 flood coat (shallower center cavity), not from deeper cross-bar pockets. |
+| 1.3 | 2026-08-03 | Panel 2 Phase 2 Step 3 complete: back skin de-blushed and primed. Added figures 6.3 and 6.4, updated next-steps and status banner. |
 
 ---
 
