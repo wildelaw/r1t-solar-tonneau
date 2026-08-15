@@ -6,7 +6,7 @@ nav_order: 7
 
 # Phase 6: Do It Three More Times
 
-> **Status: In progress (Panel 3 next).** All four steel frames are already welded, so Phase 1 work for panels 2–4 is complete. Panel 2 is now built and tested — it demolded cleanly thanks to the hardboard mold inserts, though the inserts stuck to the back of the panel because they were not sprayed with silicone release. Both Panel 1 and Panel 2 were tested together in non-peak sun: 17.34 V at 4.06 A (~70 W). Inspection of Panel 1 found 5 of its 16 cells cracked, likely from an air bubble trapped behind the panel that expanded in the heat (the bubble was not removed on Panel 1; it was removed on Panel 2, which will be monitored for cracks). This page tracks the build progress of the remaining panels and the final wiring of all four together.
+> **Status: In progress (Panel 3 next).** All four steel frames are already welded, so Phase 1 work for panels 2–4 is complete. Panel 2 is now built and tested — it demolded cleanly thanks to the hardboard mold inserts, though the inserts stuck to the back of the panel because they were not sprayed with silicone release. Both Panel 1 and Panel 2 were tested together under load in non-peak sun (driving an inverter at its minimum supported voltage): 17.34 V at 4.06 A (~70 W). Inspection of Panel 1 found 5 of its 16 cells cracked, likely from an air bubble trapped behind the panel that expanded in the heat (the bubble was not removed on Panel 1; it was removed on Panel 2, which will be monitored for cracks). This page tracks the build progress of the remaining panels and the final wiring of all four together.
 
 The truck bed needs four panels. The first panel is built (Phases 1–5 complete); this phase covers repeating the process for panels 2, 3, and 4, then wiring them all together.
 
@@ -64,16 +64,16 @@ However, I failed to spray the hardboard inserts with silicone release spray bef
 
 ### Two-panel test
 
-With Panel 1 and Panel 2 both complete, the two were wired together and tested in non-peak sun. The pair produced **17.34 V at 4.06 A (~70 W)** — a useful combined output even off-peak.
+With Panel 1 and Panel 2 both complete, the two were wired together and tested under load in non-peak sun, driving an inverter at its minimum supported voltage. The pair delivered **17.34 V at 4.06 A (~70 W)** — a useful combined output even off-peak.
 
-{% include figure.html image="/Images/6.6-Both-panels-17v.jpeg" caption="Panel 1 and Panel 2 wired together in non-peak sun: 17.34 V open-circuit." %}
-{% include figure.html image="/Images/6.7-Both-panels-4.06a.jpeg" caption="Panel 1 and Panel 2 wired together in non-peak sun: 4.06 A short-circuit current. Combined output ~70 W." %}
+{% include figure.html image="/Images/6.6-Both-panels-17v.jpeg" caption="Panel 1 and Panel 2 wired together under load (driving an inverter at its minimum supported voltage) in non-peak sun: 17.34 V." %}
+{% include figure.html image="/Images/6.7-Both-panels-4.06a.jpeg" caption="Panel 1 and Panel 2 wired together under load in non-peak sun: 4.06 A. Combined output ~70 W." %}
 
 ## Panel 1 — post-build inspection: cell cracks from trapped air
 
 After Panel 2 was demolded cleanly, I went back and inspected Panel 1 more closely. **5 of the 16 cells in Panel 1 are cracked.** During Panel 1's layup, an air bubble was left trapped behind the panel and was never removed; that bubble expands in the heat and puts pressure on the delicate cells. Some of the cracks may also have occurred during demolding (the prying torque that warped the panel — see [Phase 5 — Demold]({{ site.baseurl }}{% link build/phase-5-post-cure.md %}#1-demold)), but the trapped air is the most likely primary cause for the cells directly over the bubble.
 
-**Lesson for next panels:** Remove every trapped air bubble during layup before the resin cures. On Panel 2 the bubble was removed, and the panel will be monitored for any cracks developing over time. The existing 5 cracked cells in Panel 1 are sealed in resin and cannot be replaced — the panel still produces power (it contributed to the 17.34 V / 4.06 A two-panel test above), just at a reduced output.
+**Lesson for next panels:** Remove every trapped air bubble during layup before the resin cures. On Panel 2 the bubble was removed, and the panel will be monitored for any cracks developing over time. The existing 5 cracked cells in Panel 1 are sealed in resin and cannot be replaced — the panel still produces power (it contributed to the 17.34 V / 4.06 A under-load two-panel test above), just at a reduced output.
 
 > **Watch-out — trapped air behind the panel:** An air bubble left behind a panel during layup is not just a cosmetic issue. In the sun the trapped air heats up and expands, bowing the panel and putting pressure on the fragile solar cells directly above it — enough to crack them over time. Chase and release every trapped air pocket before the resin gels.
 
@@ -103,7 +103,8 @@ Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
 | 1.1 | 2026-08-02 | Corrected the hardboard watch-out — hardboard is hygroscopic (absorbs air moisture and moves with humidity at a different rate than the cured resin), not resin-absorbing; once encased in resin it stabilizes. |
 | 1.2 | 2026-08-02 | Corrected the 24 oz wet-out rationale — the extra resin is absorbed by the porous hardboard inserts during wet-out; the resin savings come later in the Phase 4 flood coat (shallower center cavity), not from deeper cross-bar pockets. |
 | 1.3 | 2026-08-03 | Panel 2 Phase 2 Step 3 complete: back skin de-blushed and primed. Added figures 6.3 and 6.4, updated next-steps and status banner. |
-| 1.4 | 2026-08-14 | Panel 2 complete and demolded (hardboard inserts stuck to the back — not sprayed with release). Two-panel test in non-peak sun: 17.34 V open-circuit and 4.06 A short-circuit (~70 W). Panel 1 inspection found 5/16 cells cracked, attributed to a trapped air bubble expanding in the heat. Added figures 6.5 (panel 2 complete), 6.6 (17.34 V), 6.7 (4.06 A), 6.8 (hardboard stuck to panel 2); updated panel tracker, status banner, and next steps for Panel 3. |
+| 1.4 | 2026-08-14 | Panel 2 complete and demolded (hardboard inserts stuck to the back — not sprayed with release). Two-panel test in non-peak sun: 17.34 V and 4.06 A (~70 W). Panel 1 inspection found 5/16 cells cracked, attributed to a trapped air bubble expanding in the heat. Added figures 6.5 (panel 2 complete), 6.6 (17.34 V), 6.7 (4.06 A), 6.8 (hardboard stuck to panel 2); updated panel tracker, status banner, and next steps for Panel 3. |
+| 1.5 | 2026-08-14 | Corrected the two-panel test description: 17.34 V / 4.06 A was measured under load (driving an inverter at its minimum supported voltage), not open-circuit / short-circuit. Updated the two-panel test section, figure captions, status banner, and lesson paragraph. |
 
 ---
 

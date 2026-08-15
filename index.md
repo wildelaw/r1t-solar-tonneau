@@ -6,7 +6,7 @@ nav_order: 0
 
 # Rivian R1T Solar Tonneau Cover
 
-> **Status: Rev 1.6 — Phase 6 in progress** — Phases 1–5 complete (first panel). Panel 2 is now built, demolded, and tested: wired with Panel 1 in non-peak sun the pair produces 17.34 V at 4.06 A (~70 W). Panel 1 inspection found 5 of 16 cells cracked, likely from an air bubble trapped behind it during layup that expands in the heat. Panel 3 is next, with parchment paper on the hardboard inserts and stricter bubble removal. Panels 3–4 and final four-panel wiring still to come.
+> **Status: Rev 1.7 — Phase 6 in progress** — Phases 1–5 complete (first panel). Panel 2 is now built, demolded, and tested: wired with Panel 1 under load in non-peak sun (driving an inverter at its minimum supported voltage) the pair delivers 17.34 V at 4.06 A (~70 W). Panel 1 inspection found 5 of 16 cells cracked, likely from an air bubble trapped behind it during layup that expands in the heat. Panel 3 is next, with parchment paper on the hardboard inserts and stricter bubble removal. Panels 3–4 and final four-panel wiring still to come.
 
 An engineering & build log for a custom **55" × 13½" × ½" steel-framed solar panel** that replaces the tonneau cover on a Rivian R1T. The panel charges a battery backup power supply stored in the truck bed, or directly powers a cooler in the bed.
 
@@ -53,7 +53,7 @@ I could have just done a fiberglass wrap around the new four-panel steel-frame d
 3. ✅ **[Phase 3 — Cell Placement & Routing]({{ site.baseurl }}{% link build/phase-3-cells.md %})** — *Complete.* Kapton insulation, cell stringing, tin-strip soldering, bus-bar routing, clay seal.
 4. ✅ **[Phase 4 — The Resin Pour (Direct Bond Method)]({{ site.baseurl }}{% link build/phase-4-resin.md %})** — *Complete.* Seal coat, flood coat, 1/16" expansion gap, heat-gun bubbles, 48-hour cure.
 5. ✅ **[Phase 5 — Post-Cure, Expansion Cap & J-Box Soldering]({{ site.baseurl }}{% link build/phase-5-post-cure.md %})** — *Complete.* Demold, putty removal, expansion cap (skipped on first panel), J-Box wired + tested (9.6 V open, 6.76 A short-circuit, ~65 W), test fit in the truck bed.
-6. 🛠️ **[Phase 6 — Do It Three More Times]({{ site.baseurl }}{% link build/phase-6-more-panels.md %})** — *In progress.* One panel doesn't quite cover the whole bed — the truck bed needs four. All four frames were welded together during Phase 1, so no new Phase 1 work is needed. Panel 2 is now complete and demolded (the hardboard insert modification reduced its weight, though the inserts stuck to the back because they weren't sprayed with release). Panel 1 and Panel 2 wired together produce 17.34 V at 4.06 A (~70 W) in non-peak sun. Inspection of Panel 1 found 5 of 16 cells cracked — likely from an air bubble trapped behind it that expands in the heat and pressures the cells. Panel 3 is next: reuse the mold and hardboard inserts (with parchment paper as a release layer this time), remove all trapped air during layup, then solder cells, pour resin, demold, wire the J-Boxes, and finally wire all four panels together and go camping.
+6. 🛠️ **[Phase 6 — Do It Three More Times]({{ site.baseurl }}{% link build/phase-6-more-panels.md %})** — *In progress.* One panel doesn't quite cover the whole bed — the truck bed needs four. All four frames were welded together during Phase 1, so no new Phase 1 work is needed. Panel 2 is now complete and demolded (the hardboard insert modification reduced its weight, though the inserts stuck to the back because they weren't sprayed with release). Panel 1 and Panel 2 wired together under load (driving an inverter at its minimum supported voltage) deliver 17.34 V at 4.06 A (~70 W) in non-peak sun. Inspection of Panel 1 found 5 of 16 cells cracked — likely from an air bubble trapped behind it that expands in the heat and pressures the cells. Panel 3 is next: reuse the mold and hardboard inserts (with parchment paper as a release layer this time), remove all trapped air during layup, then solder cells, pour resin, demold, wire the J-Boxes, and finally wire all four panels together and go camping.
 
 ## Reference
 
@@ -79,7 +79,7 @@ Phase 6 is in progress (Rev 1.6). All four steel frames were welded at the same 
 
 One issue with Panel 2: the hardboard inserts were not sprayed with silicone release spray before the pour, so they bonded permanently to the back of the panel and could not be removed. This was an expected risk and adds only a small amount of weight; for Panel 3, parchment paper will be tried as a release layer on the inserts.
 
-With Panel 1 and Panel 2 both complete, the two were wired together and tested in non-peak sun: **17.34 V at 4.06 A (~70 W)** combined — a useful output even off-peak.
+With Panel 1 and Panel 2 both complete, the two were wired together and tested under load in non-peak sun, driving an inverter at its minimum supported voltage. The pair delivered **17.34 V at 4.06 A (~70 W)** combined — a useful output even off-peak.
 
 After Panel 2 demolded cleanly, Panel 1 was reinspected and **5 of its 16 cells were found to be cracked.** During Panel 1's layup an air bubble was left trapped behind the panel and was never removed; that bubble expands in the heat and puts pressure on the delicate cells directly above it. Some of the cracks may also have occurred during demolding (the prying torque that warped the panel), but the trapped air is the most likely primary cause. On Panel 2 the bubble was removed during layup, and the panel will be monitored for cracks developing over time. The 5 cracked cells in Panel 1 are sealed in resin and cannot be replaced — the panel still produces power, just at a reduced output.
 
@@ -102,6 +102,7 @@ Next: Panel 3, reusing the mold and hardboard insert approach (with parchment pa
 | 1.4 | 2026-08-03 | Corrected the Phase 5 panel output from ~54 W to ~65 W (9.6 V × 6.76 A = 64.9 W) and the pre-resin figure from ~66 W to ~67 W (9.6 V × 6.96 A = 66.8 W) in the phase list, outcome paragraph, and status line. |
 | 1.5 | 2026-08-03 | Phase 6 Panel 2 Phase 2 Step 3 complete: back skin de-blushed and primed. Updated status line, phase list item 6, and outcome paragraph. |
 | 1.6 | 2026-08-14 | Phase 6 Panel 2 complete and demolded (hardboard inserts stuck to the back — not sprayed with release). Two-panel test: 17.34 V at 4.06 A (~70 W) in non-peak sun. Panel 1 inspection found 5/16 cells cracked, attributed to a trapped air bubble expanding in the heat. Updated status line, phase list item 6, and outcome paragraph. |
+| 1.7 | 2026-08-14 | Corrected the two-panel test description: 17.34 V / 4.06 A was measured under load (driving an inverter at its minimum supported voltage), not open-circuit / short-circuit. Updated status line, phase list item 6, and outcome paragraph. |
 
 ---
 
