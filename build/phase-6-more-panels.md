@@ -6,7 +6,7 @@ nav_order: 7
 
 # Phase 6: Do It Three More Times
 
-> **Status: In progress (Panel 3 next).** All four steel frames are already welded, so Phase 1 work for panels 2–4 is complete. Panel 2 is now built and tested — it demolded cleanly thanks to the hardboard mold inserts, though the inserts stuck to the back of the panel because they were not sprayed with silicone release. Both Panel 1 and Panel 2 were tested together under load in non-peak sun (driving an inverter at its minimum supported voltage): 17.34 V at 4.06 A (~70 W). Inspection of Panel 1 found 5 of its 16 cells cracked, likely from an air bubble trapped behind the panel that expanded in the heat (the bubble was not removed on Panel 1; it was removed on Panel 2, which will be monitored for cracks). This page tracks the build progress of the remaining panels and the final wiring of all four together.
+> **Status: In progress (Panel 3 — resin poured).** Panel 2 is complete and tested (17.34 V at 4.06 A ~70 W under load with Panel 1; Panel 1 has 5/16 cells cracked from a trapped air bubble). After a shop delay (another project needed a long cure to prevent lacquer blushing), the shop is back on solar-panel duty: Panel 3's cells were soldered and the resin poured over the weekend. The bus bars land on the opposite holes — the polarity check was skipped again — and one cell cracked (small 2 cm × 1 cm center crack) while removing the air bubbles. Demold is planned for later this week. The final panel (4) is planned as the mounting point for the battery and inverter, with a locked access panel. This page tracks the build progress of the remaining panels and the final wiring of all four together.
 
 The truck bed needs four panels. The first panel is built (Phases 1–5 complete); this phase covers repeating the process for panels 2, 3, and 4, then wiring them all together.
 
@@ -16,8 +16,8 @@ The truck bed needs four panels. The first panel is built (Phases 1–5 complete
 |---|---|---|---|---|---|---|
 | 1 | ✅ | ✅ | ✅ | ✅ | ✅ | Complete (5/16 cells cracked) |
 | 2 | ✅ (pre-welded) | ✅ | ✅ | ✅ | ✅ | Complete (hardboard inserts stuck to back) |
-| 3 | ✅ (pre-welded) | — | — | — | — | Not started |
-| 4 | ✅ (pre-welded) | — | — | — | — | Not started |
+| 3 | ✅ (pre-welded) | ✅ | ✅ | ✅ | — | Resin poured — demold planned this week |
+| 4 | ✅ (pre-welded) | — | — | — | — | Planned — battery/inverter mount + locked access panel |
 
 All four frames were welded at the same time during Phase 1, so no additional Phase 1 work is planned for panels 2–4.
 
@@ -77,12 +77,37 @@ After Panel 2 was demolded cleanly, I went back and inspected Panel 1 more close
 
 > **Watch-out — trapped air behind the panel:** An air bubble left behind a panel during layup is not just a cosmetic issue. In the sun the trapped air heats up and expands, bowing the panel and putting pressure on the fragile solar cells directly above it — enough to crack them over time. Chase and release every trapped air pocket before the resin gels.
 
-## Next steps — Panel 3
+## Panel 3 — Layup, Cells & Resin Pour
 
-- Reuse the mold and hardboard insert approach (it demolded cleanly and reduced weight).
-- **Spray the hardboard inserts with silicone release spray**, or line them with extra-wide parchment paper, so they release from the back of the panel this time.
-- Remove all trapped air bubbles during layup (the Panel 1 lesson).
-- Drill wire exits in Phase 2, before soldering cells.
+### A delayed start
+
+The mold shop was tied up with another project that required a long curing time to prevent "blushing" on a lacquer finish. The shop has since been reclaimed by the solar panel project, and Panel 3 spent the weekend in it: the cells were soldered and the resin poured.
+
+### Cells soldered — polarity check skipped (again)
+
+{% include figure.html image="/Images/6.9-Panel-3-cells-soldered.jpeg" caption="Panel 3 cells soldered up — the bus bars land on the opposite holes from Panel 1 because the polarity was not checked before laying down the strands." %}
+
+You may notice the bus bars go to the *opposite* holes: someone (me) forgot to check the polarity before laying down the strands — the same mistake from Panel 1 (see [Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})). The wiring will need the same crossover fix at the J-Box that Panel 1 needed.
+
+### One cell cracked while chasing bubbles
+
+Removing the air bubbles cracked one cell — a small ~2 cm × 1 cm crack in the very center of one cell. The power loss should be minor given the size and position. Panel 3 becomes the second panel with a sealed-in crack, joining Panel 1 (5 cracked cells) — and a reminder that the resin locks in whatever happens during layup.
+
+### Resin poured
+
+{% include figure.html image="/Images/6.10-Panel-3-resin-pour.jpeg" caption="Resin poured on Panel 3, following the same seal-coat / flood-coat process as the previous panels." %}
+
+The resin is poured and curing. Demold is planned for later this week.
+
+## Panel 4 — the final panel
+
+The last panel will be different from the first three: it will be the mounting point for the battery and the inverter, mounted on its bottom, with a locked access panel to gain access to the power. If any solar cells are added to it, only about 50% of the panel would be covered (8 cells) — the rest of the space goes to the power hardware.
+
+## Next steps
+
+- Demold Panel 3 later this week (watch how the hardboard inserts release this time — silicone release and parchment paper were the planned fixes for the stuck-insert problem).
+- Wire Panel 4: battery and inverter mount on the bottom, locked access panel, optionally ~8 cells covering ~50%.
+- Wire all four panels together.
 
 ## Wiring all four panels together
 
@@ -105,6 +130,7 @@ Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
 | 1.3 | 2026-08-03 | Panel 2 Phase 2 Step 3 complete: back skin de-blushed and primed. Added figures 6.3 and 6.4, updated next-steps and status banner. |
 | 1.4 | 2026-08-14 | Panel 2 complete and demolded (hardboard inserts stuck to the back — not sprayed with release). Two-panel test in non-peak sun: 17.34 V and 4.06 A (~70 W). Panel 1 inspection found 5/16 cells cracked, attributed to a trapped air bubble expanding in the heat. Added figures 6.5 (panel 2 complete), 6.6 (17.34 V), 6.7 (4.06 A), 6.8 (hardboard stuck to panel 2); updated panel tracker, status banner, and next steps for Panel 3. |
 | 1.5 | 2026-08-14 | Corrected the two-panel test description: 17.34 V / 4.06 A was measured under load (driving an inverter at its minimum supported voltage), not open-circuit / short-circuit. Updated the two-panel test section, figure captions, status banner, and lesson paragraph. |
+| 1.6 | 2026-09-14 | Panel 3: cells soldered and resin poured after a shop delay (lacquer-blush cure on another project). Bus bars landed on the opposite holes — polarity check skipped before laying strands; one cell cracked (~2 cm × 1 cm, center) while removing air bubbles. Added figures 6.9 and 6.10. Panel 4 planned as battery/inverter mount with locked access panel (optionally ~8 cells covering ~50%). Updated tracker, status banner, and next steps. |
 
 ---
 
