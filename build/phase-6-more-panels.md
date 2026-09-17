@@ -6,7 +6,7 @@ nav_order: 7
 
 # Phase 6: Do It Three More Times
 
-> **Status: In progress (Panel 3 — resin poured).** Panel 2 is complete and tested (17.34 V at 4.06 A ~70 W under load with Panel 1; Panel 1 has 5/16 cells cracked from a trapped air bubble). After a shop delay (another project needed a long cure to prevent lacquer blushing), the shop is back on solar-panel duty: Panel 3's cells were soldered and the resin poured over the weekend. The bus bars land on the opposite holes — the polarity check was skipped again — and one cell cracked (small 2 cm × 1 cm center crack) while removing the air bubbles. Demold is planned for later this week. The final panel (4) is planned as the mounting point for the battery and inverter, with a locked access panel. This page tracks the build progress of the remaining panels and the final wiring of all four together.
+> **Status: In progress (Panel 4 — the final panel).** Panels 1–3 are complete and test-fit in the truck bed; only Panel 4 remains. Panel 2 tested with Panel 1 at 17.34 V / 4.06 A (~70 W) under load; Panel 1 has 5/16 cells cracked from a trapped air bubble; Panel 3 has one small center-cracked cell (minor loss) and its bus bars on the opposite holes (J-Box crossover needed). Panel 4 is planned as the battery/inverter mount with a locked access panel, optionally ~8 cells covering ~50%. This page tracks the build progress of the remaining panels and the final wiring of all four together.
 
 The truck bed needs four panels. The first panel is built (Phases 1–5 complete); this phase covers repeating the process for panels 2, 3, and 4, then wiring them all together.
 
@@ -16,7 +16,7 @@ The truck bed needs four panels. The first panel is built (Phases 1–5 complete
 |---|---|---|---|---|---|---|
 | 1 | ✅ | ✅ | ✅ | ✅ | ✅ | Complete (5/16 cells cracked) |
 | 2 | ✅ (pre-welded) | ✅ | ✅ | ✅ | ✅ | Complete (hardboard inserts stuck to back) |
-| 3 | ✅ (pre-welded) | ✅ | ✅ | ✅ | — | Resin poured — demold planned this week |
+| 3 | ✅ (pre-welded) | ✅ | ✅ | ✅ | ✅ | Complete (bus bars on opposite holes; one cell center-cracked) |
 | 4 | ✅ (pre-welded) | — | — | — | — | Planned — battery/inverter mount + locked access panel |
 
 All four frames were welded at the same time during Phase 1, so no additional Phase 1 work is planned for panels 2–4.
@@ -99,14 +99,19 @@ Removing the air bubbles cracked one cell — a small ~2 cm × 1 cm crack in the
 
 The resin is poured and curing. Demold is planned for later this week.
 
+### Complete and test-fit
+
+Panel 3 completed the full process — demolded and wired like the others — and all three completed panels were test-fit in the truck bed together.
+
+{% include figure.html image="/Images/6.11-Three-panels-test-fit.jpeg" caption="Panels 1–3 test-fit in the truck bed — only Panel 4 (the battery/inverter mount panel) remains." %}
+
 ## Panel 4 — the final panel
 
 The last panel will be different from the first three: it will be the mounting point for the battery and the inverter, mounted on its bottom, with a locked access panel to gain access to the power. If any solar cells are added to it, only about 50% of the panel would be covered (8 cells) — the rest of the space goes to the power hardware.
 
 ## Next steps
 
-- Demold Panel 3 later this week (watch how the hardboard inserts release this time — silicone release and parchment paper were the planned fixes for the stuck-insert problem).
-- Wire Panel 4: battery and inverter mount on the bottom, locked access panel, optionally ~8 cells covering ~50%.
+- Build Panel 4: battery and inverter mount on the bottom, locked access panel, optionally ~8 cells covering ~50%.
 - Wire all four panels together.
 
 ## Wiring all four panels together
@@ -131,6 +136,7 @@ Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
 | 1.4 | 2026-08-14 | Panel 2 complete and demolded (hardboard inserts stuck to the back — not sprayed with release). Two-panel test in non-peak sun: 17.34 V and 4.06 A (~70 W). Panel 1 inspection found 5/16 cells cracked, attributed to a trapped air bubble expanding in the heat. Added figures 6.5 (panel 2 complete), 6.6 (17.34 V), 6.7 (4.06 A), 6.8 (hardboard stuck to panel 2); updated panel tracker, status banner, and next steps for Panel 3. |
 | 1.5 | 2026-08-14 | Corrected the two-panel test description: 17.34 V / 4.06 A was measured under load (driving an inverter at its minimum supported voltage), not open-circuit / short-circuit. Updated the two-panel test section, figure captions, status banner, and lesson paragraph. |
 | 1.6 | 2026-09-14 | Panel 3: cells soldered and resin poured after a shop delay (lacquer-blush cure on another project). Bus bars landed on the opposite holes — polarity check skipped before laying strands; one cell cracked (~2 cm × 1 cm, center) while removing air bubbles. Added figures 6.9 and 6.10. Panel 4 planned as battery/inverter mount with locked access panel (optionally ~8 cells covering ~50%). Updated tracker, status banner, and next steps. |
+| 1.7 | 2026-09-17 | Panel 3 complete: demolded and wired; all three finished panels test-fit in the truck bed. Added figure 6.11; updated tracker, status banner, and next steps (only Panel 4 remains). |
 
 ---
 
