@@ -62,3 +62,4 @@ See [LICENSE](LICENSE).
 | 1.5 | 2026-08-14 | Corrected the two-panel test description: 17.34 V / 4.06 A was measured under load (driving an inverter at its minimum supported voltage), not open-circuit / short-circuit. Updated status line and Phase 6 list entry. |
 | 1.6 | 2026-09-14 | Panel 3: cells soldered + resin poured after a shop delay (lacquer-blush cure on another project); polarity check skipped again (bus bars on opposite holes) and one cell cracked (~2 cm × 1 cm) while removing air bubbles; demold planned for the week. Panel 4 planned as battery/inverter mount with locked access panel. Updated status line and Phase 6 list entry. |
 | 1.7 | 2026-09-17 | Panel 3 complete; all three finished panels test-fit in the truck bed — only Panel 4 remains. Updated status line and Phase 6 list entry. |
+| 1.8 | 2026-09-17 | Monitoring update: Panel 1 crack damage confined to Panel 1 — Panel 2 (air bubbles removed) shows none, supporting the trapped-air cause. |

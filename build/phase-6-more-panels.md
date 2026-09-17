@@ -75,6 +75,10 @@ After Panel 2 was demolded cleanly, I went back and inspected Panel 1 more close
 
 **Lesson for next panels:** Remove every trapped air bubble during layup before the resin cures. On Panel 2 the bubble was removed, and the panel will be monitored for any cracks developing over time. The existing 5 cracked cells in Panel 1 are sealed in resin and cannot be replaced — the panel still produces power (it contributed to the 17.34 V / 4.06 A under-load two-panel test above), just at a reduced output.
 
+{% include figure.html image="/Images/6.12-Panel-1-crack-damage.jpeg" caption="Crack damage on Panel 1 so far — cells over the air bubble that was never removed during layup. Panel 2, where the bubbles were removed, shows nothing like this." %}
+
+**Monitoring update:** So far the crack damage is confined to Panel 1 — Panel 2, where the air bubbles were removed during layup, shows nothing like this. That contrast supports the trapped-air-bubble cause (rather than the demolding torque): same process, same shop, same sun — the only process difference was whether the bubbles were chased out. Panel 2 stays under observation.
+
 > **Watch-out — trapped air behind the panel:** An air bubble left behind a panel during layup is not just a cosmetic issue. In the sun the trapped air heats up and expands, bowing the panel and putting pressure on the fragile solar cells directly above it — enough to crack them over time. Chase and release every trapped air pocket before the resin gels.
 
 ## Panel 3 — Layup, Cells & Resin Pour
@@ -137,6 +141,7 @@ Next: **[Pro Hints & Watch-Outs]({{ site.baseurl }}{% link pro-tips.md %})**
 | 1.5 | 2026-08-14 | Corrected the two-panel test description: 17.34 V / 4.06 A was measured under load (driving an inverter at its minimum supported voltage), not open-circuit / short-circuit. Updated the two-panel test section, figure captions, status banner, and lesson paragraph. |
 | 1.6 | 2026-09-14 | Panel 3: cells soldered and resin poured after a shop delay (lacquer-blush cure on another project). Bus bars landed on the opposite holes — polarity check skipped before laying strands; one cell cracked (~2 cm × 1 cm, center) while removing air bubbles. Added figures 6.9 and 6.10. Panel 4 planned as battery/inverter mount with locked access panel (optionally ~8 cells covering ~50%). Updated tracker, status banner, and next steps. |
 | 1.7 | 2026-09-17 | Panel 3 complete: demolded and wired; all three finished panels test-fit in the truck bed. Added figure 6.11; updated tracker, status banner, and next steps (only Panel 4 remains). |
+| 1.8 | 2026-09-17 | Added figure 6.12 (Panel 1 crack damage) and a monitoring update: damage so far is confined to Panel 1 — Panel 2 (air bubbles removed) shows none, supporting the trapped-air cause. |
 
 ---
 
